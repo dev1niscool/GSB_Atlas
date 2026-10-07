@@ -60,7 +60,11 @@
               "title": "Official public team data",
               "url": "https://www.lcatterton.com/js/people.json"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "farah.khan@lcatterton.com",
+          "emailNote": "Published in the firm’s public team data; reviewed October 7, 2026. Deliverability has not been independently tested."
         },
         {
           "id": "schechtmann-carlos",
@@ -102,7 +106,11 @@
               "title": "Public LinkedIn education",
               "url": "https://www.linkedin.com/in/carlosschechtmann"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "carlos.schechtmann@lcatterton.com",
+          "emailNote": "Published in the firm’s public team data; reviewed October 7, 2026. Deliverability has not been independently tested."
         }
       ]
     },
@@ -145,8 +153,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Joined in 2021 after KKR Capstone and Bain & Company. Works with portfolio management on commercial growth, technology strategy, efficiency, M&A and organizational development.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "abonneau@centerbridge.com",
+          "emailSource": {
+            "title": "ContactOut — Alissa Bonneau public profile FAQ",
+            "url": "https://contactout.com/Alissa-Bonneau-2972172"
+          },
           "photoUrl": "https://cdn.prod.website-files.com/685d4f8ac351c855854a7c56/68b87dfeccc1ae8d79ad22dd_Bonneau%2C%20Alissa.avif",
           "photoSource": {
             "title": "Official biography portrait",
@@ -158,7 +169,11 @@
               "title": "Official biography",
               "url": "https://www.centerbridge.com/our-team/alissa-bonneau"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Alissa Bonneau at Centerbridge Partners, reviewed October 7, 2026. Third-party directory listing; not confirmed by Centerbridge and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "abonneau@centerbridge.com"
         }
       ]
     },
@@ -198,8 +213,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Leads institutional investor relationships, fundraising and limited-partner communications. Her prior experience includes JPMorgan Chase.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "fhiggins@welshcarson.com",
+          "emailSource": {
+            "title": "ILPA 2017 Summit — WCAS key contact (p. 88)",
+            "url": "https://ilpa.org/wp-content/uploads/2017/11/2017-ILPA-Summit-General-Partner-Profiles.pdf#page=89"
+          },
           "photoUrl": "https://www.wcas.com/team/frances-higgins.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -215,7 +233,11 @@
               "title": "Official team directory",
               "url": "https://www.wcas.com/team"
             }
-          ]
+          ],
+          "emailNote": "Published as WCAS’s key contact in ILPA’s November 2017 conference directory. Historical professional address; current use and deliverability have not been independently verified.",
+          "emailEvidenceType": "third-party",
+          "emailEvidence": "Key Contact: Frances Higgins … Key Contact Email: fhiggins@welshcarson.com",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     },
@@ -275,7 +297,11 @@
               "title": "Official biography",
               "url": "https://www.roarkcapital.com/ourteam"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "sspiegel@roarkcapital.com",
+          "emailNote": "Published on the firm’s official team page or biography; reviewed October 7, 2026. Deliverability has not been independently tested."
         }
       ]
     },
@@ -320,8 +346,11 @@
             "Ironman triathlons",
             "Philanthropy"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "mfisch@american-securities.com",
+          "emailSource": {
+            "title": "ContactOut — Michael Fisch public profile FAQ",
+            "url": "https://contactout.com/michael-fisch-71782"
+          },
           "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/127/xs_michael-fisch-american-securities-founder-ceo-headshot.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -333,7 +362,11 @@
               "title": "Official biography",
               "url": "https://www.american-securities.com/team/michael-fisch/"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Michael Fisch, reviewed October 7, 2026. Third-party directory listing; not confirmed by American Securities and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "mfisch@american-securities.com"
         },
         {
           "id": "kevin-zhou",
@@ -366,7 +399,11 @@
               "title": "Official biography",
               "url": "https://www.american-securities.com/team/kevin-zhou/"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "kzhou@american-securities.com",
+          "emailNote": "Published on the firm’s official team page or biography; reviewed October 7, 2026. Deliverability has not been independently tested."
         },
         {
           "id": "ross-andrese",
@@ -399,7 +436,11 @@
               "title": "Official biography",
               "url": "https://www.american-securities.com/team/ross-andrese/"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "randrese@american-securities.com",
+          "emailNote": "Published on the firm’s official team page or biography; reviewed October 7, 2026. Deliverability has not been independently tested."
         }
       ]
     },
@@ -462,7 +503,8 @@
               "title": "Public LinkedIn education",
               "url": "https://www.linkedin.com/in/tyler-griffith-b4a98519"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed October 7, 2026: THL biography, Wiza, Lead411, PERE and exact-name/domain searches. Contact fields were masked or locked, and unrelated same-name results were excluded; no fully visible THL work email was verified."
         },
         {
           "id": "seth-lawry",
@@ -481,8 +523,11 @@
           "interests": [
             "Nonprofit volunteering"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "slawry@thl.com",
+          "emailSource": {
+            "title": "ContactOut — Seth Lawry public profile FAQ",
+            "url": "https://contactout.com/seth-lawry-78942"
+          },
           "photoUrl": "https://thl.com/wp-content/uploads/2022/11/SLawry-copy.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -499,7 +544,11 @@
               "url": "https://www.linkedin.com/in/seth-lawry-1b5b0770"
             }
           ],
-          "relationshipNote": "Current advisory partner listed by the firm; not represented as an active full-time deal-team employee."
+          "relationshipNote": "Current advisory partner listed by the firm; not represented as an active full-time deal-team employee.",
+          "emailNote": "Published in ContactOut’s public profile FAQ, reviewed October 7, 2026. The directory has stale THL affiliation details and emphasizes a Viking board role; THL’s current official biography independently lists Lawry as an Advisory Partner. THL has not confirmed this address, and current use and deliverability have not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "slawry@thl.com"
         }
       ]
     },
@@ -540,8 +589,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Previously an MDP associate and Citi M&A analyst; co-founded airspace-monitoring business Walaris before returning. Board work includes AEVEX, Axonis, Revolutional, OMNI, T2S Solutions and Unison.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "blevitan@mdcp.com",
+          "emailSource": {
+            "title": "ContactOut — Brandon Levitan public profile FAQ",
+            "url": "https://contactout.com/Brandon-Levitan-3318335"
+          },
           "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/387/Levitan-Brandon-220822-40990-fave-final-linkedin.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -553,7 +605,11 @@
               "title": "Official biography",
               "url": "https://www.mdcp.com/team/brandon-levitan"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Brandon Levitan at Madison Dearborn Partners, reviewed October 7, 2026. Third-party directory listing; not confirmed by the firm and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "blevitan@mdcp.com"
         },
         {
           "id": "elizabeth-betten",
@@ -571,8 +627,11 @@
           "interests": [
             "Children’s research philanthropy"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "ebetten@mdcp.com",
+          "emailSource": {
+            "title": "APM scheme booklet — MDP BidCo notice details (ASX, August 19, 2024)",
+            "url": "https://announcements.asx.com.au/asxpdf/20240819/pdf/066rq83qrxmjyy.pdf"
+          },
           "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/168/mdp-headshot-mdp_12-5_0171.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -584,7 +643,11 @@
               "title": "Official biography",
               "url": "https://www.mdcp.com/team/elizabeth-q-betten"
             }
-          ]
+          ],
+          "emailNote": "Published for Elizabeth Betten in the MDP BidCo notice provisions of APM’s August 19, 2024 ASX scheme booklet. Historical filing; current use and deliverability have not been independently verified.",
+          "emailEvidenceType": "filing",
+          "emailEvidence": "Attention: Elizabeth Betten and William Ritchie … Email: ebetten@mdcp.com and writchie@mdcp.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "jason-shideler",
@@ -600,8 +663,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Joined MDP in 2006 and returned after business school in 2010. Serves on the boards of NextGen Healthcare and Performance Health; previous board roles include Alcami, Ikaria, Sage Products and Syntellis.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "jshideler@mdcp.com",
+          "emailSource": {
+            "title": "ContactOut — Jason Shideler public profile FAQ",
+            "url": "https://contactout.com/Jason-Shideler-89053844"
+          },
           "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/185/Shideler-Jason-JAN_2024_Web.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -613,7 +679,11 @@
               "title": "Official biography",
               "url": "https://www.mdcp.com/team/jason-shideler"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Jason Shideler at Madison Dearborn Partners, reviewed October 7, 2026. Third-party directory listing; not confirmed by MDP and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "jshideler@mdcp.com"
         },
         {
           "id": "tanner-scott",
@@ -642,7 +712,8 @@
               "title": "Official biography",
               "url": "https://www.mdcp.com/team/tanner-scott"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed October 7, 2026: MDP biography, Growjo, Prospeo, Round Funded and public filing searches. Contact information was masked, locked or limited to a company format; same-name records from other employers were excluded."
         },
         {
           "id": "timothy-sullivan",
@@ -661,8 +732,11 @@
           "interests": [
             "Education philanthropy"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "tsullivan@mdcp.com",
+          "emailSource": {
+            "title": "APM scheme implementation deed — MDP BidCo notice details (ASX, June 3, 2024)",
+            "url": "https://announcements.asx.com.au/asxpdf/20240603/pdf/06461g4f42s5px.pdf"
+          },
           "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/180/Sullivan-Tim-JAN_2024_Web.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -674,7 +748,11 @@
               "title": "Official biography",
               "url": "https://www.mdcp.com/team/timothy-p-sullivan"
             }
-          ]
+          ],
+          "emailNote": "Published for Tim Sullivan in the MDP BidCo notice provisions of APM’s June 3, 2024 ASX transaction filing. Historical filing; current use and deliverability have not been independently verified.",
+          "emailEvidenceType": "filing",
+          "emailEvidence": "Attention: Tim Sullivan and Elizabeth Betten … Email: tsullivan@mdcp.com and ebetten@mdcp.com",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     },
@@ -716,8 +794,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Services investor involved in AHEAD, Parts Town, Thrive and United Flow Technologies. Joined in 2014 after Madison Dearborn Partners and J.P. Morgan.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "ccorvetti@berkshirepartners.com",
+          "emailSource": {
+            "title": "ContactOut — Candice Corvetti public profile FAQ",
+            "url": "https://contactout.com/Candice-Corvetti-26227530"
+          },
           "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Corvetti-Candice.png",
           "photoSource": {
             "title": "Official biography portrait",
@@ -729,7 +810,11 @@
               "title": "Official biography",
               "url": "https://berkshirepartners.com/team/candice-corvetti/"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Candice Corvetti at Berkshire Partners, reviewed October 7, 2026. Third-party directory listing; not confirmed by the firm and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "ccorvetti@berkshirepartners.com"
         },
         {
           "id": "jon-karp",
@@ -759,7 +844,8 @@
               "title": "Official biography",
               "url": "https://berkshirepartners.com/team/jon-karp/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed October 7, 2026: Berkshire biography, public LinkedIn profile and exact-name/current-firm directory and PDF searches. No fully visible Berkshire work email was verified; same-name accountants, lawyers and construction contacts were excluded."
         },
         {
           "id": "ladd-hamrick",
@@ -775,8 +861,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Industrials investor involved with Consolidated Precision Products, National Carwash Solutions, RJW Logistics and Triumph. Originally joined in 2015 and returned after his Stanford MBA in 2020; previously a J.P. Morgan analyst.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "lhamrick@berkshirepartners.com",
+          "emailSource": {
+            "title": "ContactOut — Ladd Hamrick public profile FAQ",
+            "url": "https://contactout.com/Ladd-Hamrick-23013014"
+          },
           "photoUrl": "https://live-berkshire-partners.pantheonsite.io/wp-content/uploads/2020/11/Hamrick-Ladd.png",
           "photoSource": {
             "title": "Official biography portrait",
@@ -788,7 +877,11 @@
               "title": "Official biography",
               "url": "https://berkshirepartners.com/team/ladd-hamrick/"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Ladd Hamrick at Berkshire Partners, reviewed October 7, 2026. Third-party directory listing; not confirmed by the firm and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "lhamrick@berkshirepartners.com"
         },
         {
           "id": "ross-jones",
@@ -817,7 +910,8 @@
               "title": "Official biography",
               "url": "https://berkshirepartners.com/team/ross-jones/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed October 7, 2026: Berkshire biography, Growjo, Kando, Alter Global, Shizune and public PDF searches. Berkshire work contacts were masked, unavailable or locked; same-name contacts from other organizations were excluded."
         },
         {
           "id": "saad-hasan",
@@ -847,7 +941,8 @@
               "url": "https://berkshirepartners.com/team/saad-hasan/"
             }
           ],
-          "relationshipNote": "Member of the firm’s Stockbridge public-equity team, not the private-equity deal team."
+          "relationshipNote": "Member of the firm’s Stockbridge public-equity team, not the private-equity deal team.",
+          "emailResearch": "Reviewed October 7, 2026: Berkshire biography, Wiza and public investment-agreement searches. Wiza showed only a masked work email and reviewed transaction materials did not provide a fully visible person-specific Berkshire email."
         },
         {
           "id": "ted-rainaud",
@@ -863,8 +958,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Industrials investor involved with FoodChain ID, Harvey Performance Company and Triumph. First joined in 2010 and returned in 2014 after business school; previously worked at Bain & Company.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "trainaud@berkshirepartners.com",
+          "emailSource": {
+            "title": "ContactOut — Ted Rainaud public profile FAQ",
+            "url": "https://contactout.com/Ted-Rainaud-24301926"
+          },
           "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2024/07/Rainaud-Ted_WEB.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -876,7 +974,11 @@
               "title": "Official biography",
               "url": "https://berkshirepartners.com/team/ted-rainaud/"
             }
-          ]
+          ],
+          "emailNote": "Published in ContactOut’s public profile FAQ for Ted Rainaud at Berkshire Partners, reviewed October 7, 2026. Third-party directory listing; not confirmed by Berkshire Partners and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "trainaud@berkshirepartners.com"
         },
         {
           "id": "kevin-callaghan",
@@ -892,8 +994,11 @@
           "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
           "background": "Senior advisor on the Private Equity team, with prior investment involvement across consumer, services and industrial businesses. Joined in 1987 after Lehman Brothers.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "kcallaghan@berkshirepartners.com",
+          "emailSource": {
+            "title": "ContactOut — Kevin Callaghan public profile FAQ",
+            "url": "https://contactout.com/kevin-callaghan-74452"
+          },
           "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Callaghan-Kevin_WEB.png",
           "photoSource": {
             "title": "Official biography portrait",
@@ -906,7 +1011,11 @@
               "url": "https://berkshirepartners.com/team/kevin-callaghan/"
             }
           ],
-          "relationshipNote": "Current Senior Advisor listed by the firm; not represented as an active full-time deal-team employee."
+          "relationshipNote": "Current Senior Advisor listed by the firm; not represented as an active full-time deal-team employee.",
+          "emailNote": "Published in ContactOut’s public profile FAQ for Kevin Callaghan, reviewed October 7, 2026. Third-party directory listing; not confirmed by Berkshire Partners and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "kcallaghan@berkshirepartners.com"
         }
       ]
     },
@@ -951,8 +1060,11 @@
             "Youth advocacy",
             "Boys & Girls Clubs of Boston"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "jklevens@charlesbank.com",
+          "emailSource": {
+            "title": "Rockport court motion record — Charlesbank purchaser notices (July 2018)",
+            "url": "https://www.richter.ca/wp-content/uploads/Insolvency-Cases/en/R/Rockport-Canada/CCAA-Proceedings/Motion-materials/20-Motion-record-V2-20180720.pdf"
+          },
           "photoUrl": "https://www.charlesbank.com/system/uploads/fae/image/asset/635/xs_Joshua_Klevens_-_New_CMS_v2.jpg",
           "photoSource": {
             "title": "Official biography portrait",
@@ -964,7 +1076,11 @@
               "title": "Official biography",
               "url": "https://www.charlesbank.com/team/joshua-klevens/"
             }
-          ]
+          ],
+          "emailNote": "Published for Joshua Klevens at Charlesbank in a Rockport transaction court filing dated July 18, 2018. Historical filing; current use and deliverability have not been independently verified.",
+          "emailEvidenceType": "filing",
+          "emailEvidence": "Attention: Joshua Klevens Email: jklevens@charlesbank.com",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     }

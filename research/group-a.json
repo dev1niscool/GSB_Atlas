@@ -51,7 +51,9 @@
               "title": "Official biography",
               "url": "https://hig.com/team/geoff-lieberthal/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed H.I.G.’s biography, company announcements and public ContactOut/professional-directory results on October 7, 2026. Current-firm directory address is masked; older-employer contacts excluded. No unmasked current H.I.G. work email verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "aaron-tolson",
@@ -68,8 +70,11 @@
           ],
           "background": "Focuses on technology, media and telecom investments. Previously worked at Summit Partners and American Securities, founded a mobile enterprise software company and served as an Army armor officer.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "atolson@higcapital.com",
+          "emailSource": {
+            "title": "H.I.G. announcement — RBmedia acquisition (July 26, 2023)",
+            "url": "https://www.businesswire.com/news/home/20230725828754/en/H.I.G.-Capital-Signs-Definitive-Agreement-to-Acquire-RBmedia"
+          },
           "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Aaron-Tolson_masthead.jpg",
           "photoSource": {
             "title": "Official portrait",
@@ -81,7 +86,11 @@
               "title": "Official biography",
               "url": "https://hig.com/team/aaron-tolson/"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailNote": "Published as H.I.G.’s named transaction contact in a 2023 company announcement. Current H.I.G. affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Aaron Tolson Managing Director atolson@higcapital.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "jonathan-contos",
@@ -96,8 +105,11 @@
           ],
           "background": "Works across sourcing, financing and portfolio growth. Previously a Principal at American Infrastructure Funds, a private equity associate at TPG and an investment banking analyst at Morgan Stanley.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "jcontos@higcapital.com",
+          "emailSource": {
+            "title": "Riveron company announcement — H.I.G. investment (May 16, 2019)",
+            "url": "https://riveron.com/posts/riveron-receives-growth-investment-from-new-capital-partner/"
+          },
           "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Jonathan-Contos_full.jpg",
           "photoSource": {
             "title": "Official portrait",
@@ -109,7 +121,11 @@
               "title": "Official biography",
               "url": "https://hig.com/team/jonathan-contos/"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailNote": "Published as H.I.G.’s named contact in a 2019 portfolio-company announcement; also repeated in a 2022 company release. Current affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Jonathan Contos 415-439-5500 jcontos@higcapital.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "irene-zou",
@@ -140,7 +156,9 @@
               "title": "Official biography",
               "url": "https://hig.com/team/irene-zou/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed the H.I.G. biography and exact-name/company-domain public searches, including professional-directory results, on October 7, 2026. No unmasked H.I.G. work email found; contacts for unrelated people excluded.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "colin-stalnecker",
@@ -168,7 +186,9 @@
               "title": "Official biography",
               "url": "https://hig.com/team/colin-stalnecker/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed H.I.G. sources, exact-name/company-domain searches, professional directories and an indexed portfolio-company government filing on October 7, 2026. No unmasked current-firm work email found.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "javier-casillas",
@@ -184,8 +204,11 @@
           ],
           "background": "Joined H.I.G. in 2006 and leads WhiteHorse investing. Previously worked at ING Americas and JPMorgan; his lending experience includes healthcare, business services and specialty finance.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "jcasillas@higcapital.com",
+          "emailSource": {
+            "title": "KB US Holdings bankruptcy filing, Doc. 17, page 47 (August 24, 2020)",
+            "url": "https://bankruptcy-proxy-api.dowjones.ai/cases/New_York_Southern_Bankruptcy_Court/7--20-bk-22962/KB_US_Holdings_Inc/docs/17.pdf#page=47"
+          },
           "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Javier-Casillas_full.jpg",
           "photoSource": {
             "title": "Official portrait",
@@ -197,7 +220,11 @@
               "title": "Official biography",
               "url": "https://hig.com/team/javier-casillas/"
             }
-          ]
+          ],
+          "emailEvidenceType": "filing",
+          "emailNote": "Listed as WhiteHorse’s named creditor contact in a 2020 public bankruptcy filing. Current H.I.G./WhiteHorse affiliation separately verified; older address, deliverability not tested.",
+          "emailEvidence": "Attn: Javier Casillas Email: jcasillas@higcapital.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "lucy-zhang",
@@ -229,7 +256,9 @@
               "title": "Public LinkedIn profile",
               "url": "https://www.linkedin.com/in/lucyszhang"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed current H.I.G./LinkedIn identification and public name/domain and ContactOut searches on October 7, 2026. Available directory matches were stale or unrelated; no unmasked H.I.G. work email verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "alice-huang",
@@ -264,7 +293,9 @@
             }
           ],
           "sectorNote": "Consumer and food sectors reflect prior Stellex deals; current H.I.G. mandate is not publicly specified.",
-          "relationshipNote": "H.I.G. affiliation is disclosed in the public LinkedIn profile; formal title is not visible in the public profile view."
+          "relationshipNote": "H.I.G. affiliation is disclosed in the public LinkedIn profile; formal title is not visible in the public profile view.",
+          "emailResearch": "Reviewed current professional identification, H.I.G.-domain searches and the RaiseHunt directory on October 7, 2026. The matching investor directory masks its address; no unmasked current-firm email found.",
+          "emailReviewedAt": "2026-10-07"
         }
       ],
       "marketedAum": {
@@ -313,8 +344,11 @@
             "Education philanthropy",
             "Entrepreneurship and equal opportunity"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "jose@clearlake.com",
+          "emailSource": {
+            "title": "Troubled Company Reporter — Knight Energy lender contact (August 11, 2017)",
+            "url": "https://bankrupt.com/TCR_Public/170811.mbx"
+          },
           "photoUrl": "assets/portraits/jose-feliciano.jpg",
           "photoSource": {
             "title": "Clearlake presentation to Pennsylvania SERS, December 2023, page 13 (portrait)",
@@ -336,7 +370,11 @@
             }
           ],
           "sectorNote": "Firm-level core PE sectors; leadership spans the platform.",
-          "photoNote": "Portrait from the firm’s December 2023 presentation to Pennsylvania SERS."
+          "photoNote": "Portrait from the firm’s December 2023 presentation to Pennsylvania SERS.",
+          "emailEvidenceType": "third-party",
+          "emailNote": "Third-party bankruptcy report reproduces Clearlake’s named lender notice contact from 2017; the same address appears in an indexed court filing. Current Clearlake affiliation separately verified. Older address; deliverability not tested.",
+          "emailEvidence": "E-mail: jose@clearlake.com Attn: Jose Feliciano",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "martin-arzac",
@@ -374,7 +412,9 @@
               "url": "https://portal.ct.gov/-/media/OTT/Pension-Funds/Investment-Advisory-Council/020922IACmeetingInfoPacket.pdf"
             }
           ],
-          "photoNote": "Portrait from the firm’s December 2023 presentation to Pennsylvania SERS."
+          "photoNote": "Portrait from the firm’s December 2023 presentation to Pennsylvania SERS.",
+          "emailResearch": "Reviewed Clearlake sources, public investment materials and exact-name/company-domain professional-directory searches on October 7, 2026. No unmasked person-specific Clearlake work email found.",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     },
@@ -417,8 +457,11 @@
           ],
           "background": "Joined in 2004 after KKR and Goldman Sachs. Co-leads Atlas and serves on the PE Leadership Committee, with board roles across information, data and financial-services businesses.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "PMasucci@newmountaincapital.com",
+          "emailSource": {
+            "title": "SEC — Tamarack/Verisk stock purchase agreement (January 21, 2022), §11.01",
+            "url": "https://www.sec.gov/Archives/edgar/data/1442145/000095010322001061/dp165565_ex0201.htm"
+          },
           "photoUrl": "https://www.3eco.com/wp-content/uploads/2024/05/Pete-Masucci-3E-200x250-1-e1716321124526.png?v=1.0.114",
           "photoSource": {
             "title": "3E board portrait",
@@ -435,7 +478,11 @@
               "url": "https://www.3eco.com/leadership/"
             }
           ],
-          "sectorNote": "Sectors reflect disclosed portfolio and board experience."
+          "sectorNote": "Sectors reflect disclosed portfolio and board experience.",
+          "emailEvidenceType": "filing",
+          "emailNote": "Named New Mountain contact in a January 2022 SEC-filed transaction agreement. Current firm affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Pete Masucci (PMasucci@newmountaincapital.com)",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "ray-thaler",
@@ -451,8 +498,11 @@
           ],
           "background": "Joined New Mountain in 2023. Previously led strategy and M&A at Cloudmed, held roles at Cotiviti, Opendoor and Bain, and served as an F-22 pilot in the U.S. Air Force.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "rthaler@newmountaincapital.com",
+          "emailSource": {
+            "title": "ContactOut — Ray Thaler public profile FAQ",
+            "url": "https://contactout.com/Ray-Thaler-29183201"
+          },
           "photoUrl": "https://static.equilar.com/prod/40520000/40520264_3101997_largeCircle.png",
           "photoSource": {
             "title": "Equilar ExecAtlas — Ray Thaler, New Mountain Capital portrait",
@@ -469,7 +519,11 @@
               "url": "https://www.linkedin.com/in/raythaler"
             }
           ],
-          "sectorNote": "Healthcare reflects prior operating experience; current mandate not specified in biography."
+          "sectorNote": "Healthcare reflects prior operating experience; current mandate not specified in biography.",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published in ContactOut’s public FAQ for Ray Thaler at New Mountain Capital, reviewed October 7, 2026. Third-party listing; not confirmed by the firm and deliverability has not been tested.",
+          "emailEvidenceType": "third-party",
+          "emailEvidence": "rthaler@newmountaincapital.com"
         }
       ]
     },
@@ -509,8 +563,11 @@
           ],
           "background": "First joined Genstar in 2003 and returned after his MBA in 2007. Previously worked at Salomon Smith Barney; his investing experience includes industrial technology and packaging. ",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "rrutledge@gencap.com",
+          "emailSource": {
+            "title": "SEC — Brunswick / Power Products transaction agreement (2018), notices",
+            "url": "https://www.sec.gov/Archives/edgar/data/14930/000095015718000795/ex2-1.htm"
+          },
           "photoUrl": "https://static.equilar.com/prod/42403000/42403174_3481896_largeCircle.png",
           "photoSource": {
             "title": "Equilar ExecAtlas — Rob S. Rutledge, Genstar Capital portrait",
@@ -530,7 +587,11 @@
               "title": "Safe Fleet acquisition — Managing Partner title",
               "url": "https://www.safefleet.net/wp-content/uploads/CT_Clarience-Technologies-Acquires-Safe-Fleet.pdf"
             }
-          ]
+          ],
+          "emailNote": "Published in a 2018 SEC transaction filing naming him at Genstar. Historical source; current deliverability has not been verified.",
+          "emailEvidenceType": "filing",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "Attention: Robert S. Rutledge; Email: rrutledge@gencap.com"
         },
         {
           "id": "eli-weiss",
@@ -546,8 +607,11 @@
           ],
           "background": "Joined Genstar in 2008 after Hellman & Friedman and Greenhill. Invests in software businesses, with portfolio experience including PDI Technologies and ConnectiveRx.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "eweiss@gencap.com",
+          "emailSource": {
+            "title": "SEC — Fortive transaction agreement (July 2018), notices",
+            "url": "https://www.sec.gov/Archives/edgar/data/1659166/000119312518232406/d592779dex21.htm"
+          },
           "photoUrl": "https://pditechnologies.com/wp-content/uploads/2022/10/img-eli-weiss-new.png",
           "photoSource": {
             "title": "Published professional portrait",
@@ -571,7 +635,11 @@
               "title": "8am official announcement — current role (May 2026)",
               "url": "https://www.8am.com/press-releases/8am-announces-strategic-leadership-transition/"
             }
-          ]
+          ],
+          "emailNote": "Published in a 2018 SEC transaction filing naming him at Genstar. Historical source; current deliverability has not been verified.",
+          "emailEvidenceType": "filing",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "Attention: Eli Weiss; Email: eweiss@gencap.com"
         },
         {
           "id": "katie-solomon",
@@ -604,7 +672,9 @@
               "title": "Conference biography — education and career",
               "url": "https://www.gojgo.org/inc_speakers.php?speaker=1937"
             }
-          ]
+          ],
+          "emailReviewedAt": "2026-10-07",
+          "emailResearch": "Public directory listings show a masked Genstar work email. No complete current-firm address was located in accessible sources."
         },
         {
           "id": "darren-tan",
@@ -643,7 +713,9 @@
             }
           ],
           "sectorNote": "Healthcare sectors reflect prior New Mountain experience; current Genstar mandate is not publicly specified.",
-          "relationshipNote": "Genstar affiliation is disclosed in the public LinkedIn profile; formal title is not visible in the public profile view."
+          "relationshipNote": "Genstar affiliation is disclosed in the public LinkedIn profile; formal title is not visible in the public profile view.",
+          "emailReviewedAt": "2026-10-07",
+          "emailResearch": "Current Genstar work email is masked in accessible public directory listings. A complete address at gencap.com has not been verified; older employer addresses were excluded."
         }
       ]
     },
@@ -704,7 +776,9 @@
               "title": "Official public team data",
               "url": "https://www.gtcr.com/wp-json/wp/v2/team/11466"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed GTCR sources and public ContactOut/SignalHire results on October 7, 2026. The current GTCR directory address is masked; the ContactOut profile identifies her prior employer. No unmasked GTCR work email verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "alexander-bennett",
@@ -721,8 +795,11 @@
           ],
           "background": "Joined in 2017 and became Vice President in 2022. Previously worked at Lazard and UBS; portfolio experience includes broadband and advertising technology.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "alexander.bennett@gtcr.com",
+          "emailSource": {
+            "title": "GTCR TMT Leadership Newsletter (Spring 2025), page 27",
+            "url": "https://www.gtcr.com/wp-content/uploads/2025/04/gtcr-tmt-2025-leadership-newsletter.pdf#page=27"
+          },
           "photoUrl": "https://www.gtcr.com/wp-content/uploads/2022/10/GTCR_BioPage_Team_Photos_AlexBennett.png",
           "photoSource": {
             "title": "Official portrait",
@@ -738,7 +815,11 @@
               "title": "Official public team data",
               "url": "https://www.gtcr.com/wp-json/wp/v2/team/6432"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailNote": "Published in GTCR’s 2025 TMT team contact list. Current GTCR affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Alexander Bennett Vice President 312.382.2232 alexander.bennett@gtcr.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "michael-steltenkamp",
@@ -754,8 +835,11 @@
           ],
           "background": "Joined in 2021 and became Director in 2024. Previously worked at Advent and BCG, and serves on the boards of Everon, PPC Flex and Senske Services.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "michael.steltenkamp@gtcr.com",
+          "emailSource": {
+            "title": "GTCR BCS Leadership Newsletter (2025), page 22",
+            "url": "https://www.gtcr.com/wp-content/uploads/2025/12/gtcr-bcs-2025-newsletter.pdf#page=22"
+          },
           "photoUrl": "https://www.gtcr.com/wp-content/uploads/2021/12/GTCR_BioPage_Steltenkamp_Mike.png",
           "photoSource": {
             "title": "Official portrait",
@@ -771,7 +855,11 @@
               "title": "Official public team data",
               "url": "https://www.gtcr.com/wp-json/wp/v2/team/4502"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailNote": "Published in GTCR’s December 2025 BCS team contact list. Earlier newsletters use a different alias; this is the newer published address. Current firm affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Mike Steltenkamp Director 312.382.2217 michael.steltenkamp@gtcr.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "david-a-donnini",
@@ -787,8 +875,11 @@
           ],
           "background": "Joined in 1991 after Bain & Company. Leads business-services investing, with board roles including Consumer Cellular, Everon, Senske Services and SimpliSafe.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "ddonnini@gtcr.com",
+          "emailSource": {
+            "title": "GTCR BCS Leadership Newsletter (2025), page 22",
+            "url": "https://www.gtcr.com/wp-content/uploads/2025/12/gtcr-bcs-2025-newsletter.pdf#page=22"
+          },
           "photoUrl": "https://www.gtcr.com/wp-content/uploads/2020/06/3d4b9812-team_bio_md_davedonnini.png",
           "photoSource": {
             "title": "Official portrait",
@@ -804,7 +895,11 @@
               "title": "Official public team data",
               "url": "https://www.gtcr.com/wp-json/wp/v2/team/1622"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailNote": "Published in GTCR’s December 2025 BCS team contact list, also supported by SEC filings. Current GTCR affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "David Donnini Head of BCS and Managing Director 312.382.2240 ddonnini@gtcr.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "nelson-iginla",
@@ -821,8 +916,11 @@
           ],
           "background": "Joined in 2019 and became Principal in 2024. Previously worked at Bain Capital and BCG; serves on the boards of Avelis Holdings, Jet Support Services and Tricentis.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "nelson.iginla@gtcr.com",
+          "emailSource": {
+            "title": "GTCR TMT Leadership Newsletter (Spring 2025), page 27",
+            "url": "https://www.gtcr.com/wp-content/uploads/2025/04/gtcr-tmt-2025-leadership-newsletter.pdf#page=27"
+          },
           "photoUrl": "https://www.gtcr.com/wp-content/uploads/2020/06/42702141-team_bio_nelsoniginla.png",
           "photoSource": {
             "title": "Official portrait",
@@ -838,7 +936,11 @@
               "title": "Official public team data",
               "url": "https://www.gtcr.com/wp-json/wp/v2/team/1518"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailNote": "Published in GTCR’s 2025 TMT team contact list. Current GTCR affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Nelson Iginla Principal 312.575.3207 nelson.iginla@gtcr.com",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     },
@@ -901,7 +1003,11 @@
               "url": "https://www.gsb.stanford.edu/experience/about/leadership/advisory-council/members"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "deb@franciscopartners.com"
         },
         {
           "id": "david-golob",
@@ -935,7 +1041,11 @@
               "url": "https://www.franciscopartners.com/team/david-golob"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "golob@franciscopartners.com"
         },
         {
           "id": "ezra-perlman",
@@ -968,7 +1078,11 @@
               "url": "https://www.franciscopartners.com/team/ezra-perlman"
             }
           ],
-          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate."
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "perlman@franciscopartners.com"
         },
         {
           "id": "chris-adams",
@@ -1001,7 +1115,11 @@
               "url": "https://www.franciscopartners.com/team/chris-adams"
             }
           ],
-          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate."
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "adams@franciscopartners.com"
         },
         {
           "id": "evan-daar",
@@ -1038,7 +1156,11 @@
               "title": "Official partner promotions — sector focus",
               "url": "https://www.franciscopartners.com/media/francisco-partners-announces-partner-promotions"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "daar@franciscopartners.com"
         },
         {
           "id": "ashley-evans",
@@ -1072,7 +1194,11 @@
               "url": "https://www.franciscopartners.com/team/ashley-evans"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "ashley.evans@franciscopartners.com"
         },
         {
           "id": "karlswell-shum",
@@ -1105,7 +1231,11 @@
               "url": "https://www.franciscopartners.com/team/karlswell-shum"
             }
           ],
-          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate."
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "shum@franciscopartners.com"
         },
         {
           "id": "christine-wang",
@@ -1140,7 +1270,11 @@
               "title": "Official partner promotions — sector focus",
               "url": "https://www.franciscopartners.com/media/francisco-partners-announces-partner-promotions"
             }
-          ]
+          ],
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "christine.wang@franciscopartners.com"
         },
         {
           "id": "ravi-bhatt",
@@ -1173,7 +1307,11 @@
               "url": "https://www.franciscopartners.com/team/ravi-bhatt"
             }
           ],
-          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate."
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "ravi.bhatt@franciscopartners.com"
         },
         {
           "id": "nate-zupan",
@@ -1206,7 +1344,11 @@
               "url": "https://www.franciscopartners.com/team/nate-zupan"
             }
           ],
-          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate."
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "nate.zupan@franciscopartners.com"
         },
         {
           "id": "ke-li",
@@ -1238,7 +1380,11 @@
               "url": "https://www.franciscopartners.com/team/ke-li"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "ke.li@franciscopartners.com"
         },
         {
           "id": "darryl-tan",
@@ -1270,7 +1416,11 @@
               "url": "https://www.franciscopartners.com/team/darryl-tan"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "Darryl.Tan@franciscopartners.com"
         },
         {
           "id": "wyeth-coulter",
@@ -1299,7 +1449,9 @@
               "url": "https://www.franciscopartners.com/team/wyeth-coulter"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailResearch": "Reviewed Francisco Partners’ profile and exact-name public contact searches on October 7, 2026. A university directory provides an academic address, which is not a current-firm work email. No unmasked Francisco Partners email found.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "leonardo-sanelli",
@@ -1331,7 +1483,11 @@
               "url": "https://www.franciscopartners.com/team/leonardo-sanelli"
             }
           ],
-          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate."
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailNote": "Published through the public Email link on the current official Francisco Partners biography, reviewed October 7, 2026. Deliverability not tested.",
+          "emailEvidence": "Leonardo.Sanelli@franciscopartners.com"
         }
       ]
     },
@@ -1385,7 +1541,9 @@
               "title": "Official biography",
               "url": "https://www.leonardgreen.com/team/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed Leonard Green sources and public ContactOut, SignalHire and Wiza search results on October 7, 2026. Matching professional-directory addresses remain masked; unrelated same-name contacts excluded. No unmasked current-firm work email verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "sophia-vargas",
@@ -1413,7 +1571,9 @@
               "title": "Official biography",
               "url": "https://www.leonardgreen.com/team/"
             }
-          ]
+          ],
+          "emailResearch": "Reviewed Leonard Green sources and exact-name/company-domain public contact searches on October 7, 2026. Directory results mainly concern unrelated people, and no unmasked LGP work email was found.",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     },
@@ -1496,7 +1656,9 @@
               "url": "https://www.veritascapital.com/team/rick-cosgrove/"
             }
           ],
-          "sectorNote": "Vantage strategy focus; biography does not specify an exclusive personal sector mandate."
+          "sectorNote": "Vantage strategy focus; biography does not specify an exclusive personal sector mandate.",
+          "emailResearch": "Reviewed Veritas sources, public investment materials and professional-directory searches on October 7, 2026. Search results with full contacts concern unrelated professionals. No unmasked Veritas work email verified.",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     },
@@ -1540,8 +1702,11 @@
           "interests": [
             "Education philanthropy"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "cesserman@tsgconsumer.com",
+          "emailSource": {
+            "title": "Public 2023 membership directory — Charles (Chuck) Esserman business listing",
+            "url": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/2484d7dc-15b0-483a-a94b-ebf5aae47a74/4434/Membership/2023%20Membership%20Directory%20DRAFT.pdf"
+          },
           "photoUrl": "https://www.tsgconsumer.com/wp-content/uploads/2025/07/cesserman-1024x717.jpg",
           "photoSource": {
             "title": "Official portrait",
@@ -1553,7 +1718,11 @@
               "title": "Official biography",
               "url": "https://www.tsgconsumer.com/team/chuck-esserman/"
             }
-          ]
+          ],
+          "emailEvidenceType": "third-party",
+          "emailNote": "Third-party 2023 directory publishes this TSG-domain work address in Charles (Chuck) Esserman’s business entry, under the firm’s former Shansby Group name. Current TSG affiliation separately verified; source accuracy and deliverability not independently tested.",
+          "emailEvidence": "Charles H. (Chuck), Managing Member The Shansby Group cesserman@tsgconsumer.com",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "hadley-mullin",
@@ -1570,8 +1739,11 @@
           "interests": [
             "Education and university governance"
           ],
-          "email": null,
-          "emailSource": null,
+          "email": "hmullin@tsgconsumer.com",
+          "emailSource": {
+            "title": "Marin Healthcare District — Board packet (January 11, 2022), professional résumé",
+            "url": "https://marinhealthcare.org/upload/public-meetings/%3D01-11-2022%20MHD%20Board%20Regular%20Packet.pdf"
+          },
           "photoUrl": "https://www.tsgconsumer.com/wp-content/uploads/2026/08/hadley-mullin-1024x682.jpeg",
           "photoSource": {
             "title": "Official portrait",
@@ -1583,7 +1755,11 @@
               "title": "Official biography",
               "url": "https://www.tsgconsumer.com/team/hadley-mullin/"
             }
-          ]
+          ],
+          "emailEvidenceType": "filing",
+          "emailNote": "Unmasked TSG work address on her professional résumé in an indexed January 2022 public board packet. Evidence checked in the publicly visible search excerpt; document URL currently returns 404. Current TSG affiliation separately verified; deliverability not tested.",
+          "emailEvidence": "Contact Hadley Mullin hmullin@tsgconsumer.com Private Equity Investor",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "kevin-adams",
@@ -1613,7 +1789,9 @@
               "url": "https://www.tsgconsumer.com/team/kevin-adams/"
             }
           ],
-          "relationshipNote": "TSG states that its Vantage operating professionals may be independent contractors or employees of TSG or affiliates; Kevin’s specific employment relationship is not disclosed."
+          "relationshipNote": "TSG states that its Vantage operating professionals may be independent contractors or employees of TSG or affiliates; Kevin’s specific employment relationship is not disclosed.",
+          "emailResearch": "Reviewed TSG’s biography, public conference listings and professional-directory searches on October 7, 2026. The matching SignalHire TSG address is masked; former-firm contacts excluded. No unmasked TSG work email verified.",
+          "emailReviewedAt": "2026-10-07"
         }
       ]
     }

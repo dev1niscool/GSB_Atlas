@@ -39,8 +39,13 @@ for f in data['firms']:
             check(is_url(source_url(source)),f"{p['name']}: invalid source")
         if p.get('email'):
             emails+=1
-            check(bool(re.fullmatch(r'[^\s@]+@[^\s@]+\.[^\s@]+',p['email'])),f"{p['name']}: invalid professional email")
+            check(bool(re.fullmatch(r'[^\s@*]+@[^\s@*]+\.[^\s@*]+',p['email'])),f"{p['name']}: invalid or masked professional email")
             check(is_url(source_url(p.get('emailSource'))),f"{p['name']}: email missing source")
+            check(p.get('emailEvidenceType') in ('company','filing','third-party'),f"{p['name']}: email missing source classification")
+            check(bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}',p.get('emailReviewedAt',''))),f"{p['name']}: email missing review date")
+            check(bool(p.get('emailNote')),f"{p['name']}: email missing source context")
+            check(p['email'].lower() in p.get('emailEvidence','').lower(),f"{p['name']}: exact email missing from evidence excerpt")
+            check(p['email'].split('@')[-1].lower() not in ('gmail.com','yahoo.com','hotmail.com','outlook.com','aol.com','icloud.com'),f"{p['name']}: personal-provider email is outside directory scope")
         if p.get('photoUrl'):
             photos+=1
             check(is_url(p['photoUrl']) or p['photoUrl'].startswith('assets/'),f"{p['name']}: invalid photo URL")

@@ -4,7 +4,7 @@ A liquid glass research directory of Stanford Graduate School of Business MBA al
 
 **Website:** https://dev1niscool.github.io/GSB_Atlas/
 
-Initial edition: **28 firms, 80 verified Stanford GSB MBA profiles, 80 attributed portraits, and 22 sourced professional emails.**
+Current edition: **28 firms, 80 verified Stanford GSB MBA profiles, 80 attributed portraits, and 51 sourced professional emails.** The expanded email research added 29 addresses to the original 22.
 
 ## Use locally
 
@@ -18,7 +18,7 @@ Open `http://localhost:4173`. There is no build step, server account, analytics,
 
 ## Research
 
-Research is a public-source snapshot reviewed October 7, 2026. The directory focuses on Stanford GSB MBA graduates; Stanford undergraduate education alone does not qualify. Current public firm rosters and individual biographies support affiliation and education. Professional emails are included only when explicitly published in a cited professional source. No email patterns are inferred. Unpublished interests, graduation years, and photos remain unavailable.
+Research is a public-source snapshot reviewed October 7, 2026. The directory focuses on Stanford GSB MBA graduates; Stanford undergraduate education alone does not qualify. Current public firm rosters and individual biographies support affiliation and education. Professional emails are included only when explicitly published in a cited company publication, public filing, or publicly accessible third-party directory listing. Every address includes a source classification, review date, evidence excerpt, and source context. Historical filings and third-party listings are labeled; no address has been tested for deliverability. No email patterns are inferred, and masked, personal, and former-employer addresses are excluded. Unpublished interests, graduation years, and photos remain unavailable.
 
 The firm universe is an editorial selection of major US-based middle-market and UMM-active buyout platforms, not a certified or exhaustive national top-25 league table. Some platforms also invest at large-cap scale. Rankings use the latest accessible disclosed AUM. AUM dates, firmwide/adviser entity scope, regulatory definitions, and inclusion of credit or other strategies vary. Cumulative capital raised/invested is not substituted for AUM. See each firm's source notes.
 
@@ -30,10 +30,10 @@ Source research is in `research/group-*.json`; the application reads `data/atlas
 
 - Search by person, firm, role, sector, or background
 - AUM rankings with source dates and metric definitions
-- Firm, sector, and publicly listed email filters
+- Firm, sector, and publicly listed email filters with a live email coverage count
 - Detailed biographies, education, interests, professional contact sources, and attributed portraits
 - Browser-local saved profiles
-- Source-inclusive CSV export of the current filtered results
+- Source-inclusive CSV export of the current filtered results, including email evidence type and research notes
 - Keyboard-accessible dialogs, mobile layouts, and reduced-motion support
 
 ## Deployment

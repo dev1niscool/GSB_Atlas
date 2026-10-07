@@ -84,7 +84,9 @@
               "url": "https://goldengatecap.com/member/mike-montgomery/"
             }
           ],
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, Wiza and ContactOut searches. Wiza masks the address; an older public directory truncates it. No complete person-specific current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "matt-crump",
@@ -120,7 +122,10 @@
             }
           ],
           "emailNote": "Published in a 2023 SEC transaction agreement for business notices; current deliverability has not been verified.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailEvidenceType": "filing",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "mcrump@goldengatecap.com"
         },
         {
           "id": "javier-puig",
@@ -153,7 +158,10 @@
             }
           ],
           "emailNote": "Published in a 2019 SEC transaction agreement for business notices; current deliverability has not been verified.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailEvidenceType": "filing",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "jpuig@goldengatecap.com"
         },
         {
           "id": "dionicio-herrera",
@@ -183,7 +191,9 @@
               "url": "https://goldengatecap.com/member/dionicio-herrara/"
             }
           ],
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography and public document and directory searches, including ContactOut and Lead411. The directory match referred to a former employer and masked its address. No complete current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "mike-schwartzman",
@@ -198,8 +208,11 @@
           ],
           "background": "Joined in 2022 and focuses on Consumer investments. Previously a principal at Wellspring Capital, a vice president at Elysium Management and a UBS investment banking analyst.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "mschwartzman@goldengatecap.com",
+          "emailSource": {
+            "title": "ContactOut — Michael Schwartzman, public profile FAQ",
+            "url": "https://contactout.com/Michael-Schwartzman-1225254"
+          },
           "photoUrl": "https://goldengatecap.com/wp-content/uploads/2025/09/schwartzman_mike_ggc.png",
           "photoSource": {
             "title": "Mike Schwartzman — official photograph",
@@ -212,7 +225,11 @@
               "url": "https://goldengatecap.com/member/mike-schwartzman/"
             }
           ],
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailNote": "Publicly listed in ContactOut’s rendered profile FAQ; profile states July 2026 verification. Third-party publication, not confirmed by the firm; deliverability not tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "mschwartzman@goldengatecap.com"
         },
         {
           "id": "diego-rivera",
@@ -241,7 +258,9 @@
               "url": "https://goldengatecap.com/member/diego-rivera/"
             }
           ],
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography and public document and directory searches, including ContactOut and Adapt. No complete person-specific current-firm work address verified; same-name results were excluded.",
+          "emailReviewedAt": "2026-10-07"
         }
       ],
       "researchedAt": "2026-10-07"
@@ -304,7 +323,9 @@
               "url": "https://www.kleinfelder.com/news/press-releases/the-kleinfelder-group-acquired-by-lindsay-goldberg/"
             }
           ],
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, The Org and ContactOut searches. No complete person-specific current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "steven-cymerman",
@@ -332,7 +353,9 @@
             }
           ],
           "sectorNote": "The official biography lists portfolio experience but does not state a personal sector mandate.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, SignalHire and ContactOut searches. SignalHire masks the current-firm address. No complete person-specific current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "john-holland",
@@ -365,7 +388,9 @@
               "url": "https://www.lindsaygoldbergllc.com/news/cathleen-ellsworth-joins-lindsay-goldberg-as-partner"
             }
           ],
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, RaiseHunt, SignalHire and ContactOut searches. Matching directory listings mask the address or require registration. No complete current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "bryan-kozin",
@@ -393,7 +418,9 @@
             }
           ],
           "sectorNote": "The official biography lists portfolio experience but does not state a personal sector mandate.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, SignalHire and ContactOut. The matched ContactOut public profile FAQ lists only personal and university addresses; its company directory masks the work address. No complete current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "vincent-ley",
@@ -431,7 +458,10 @@
             }
           ],
           "emailNote": "Published in a 2024 SEC stockholders agreement for business notices; current deliverability has not been verified.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailEvidenceType": "filing",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "ley@lindsaygoldbergllc.com"
         },
         {
           "id": "robert-lindsay",
@@ -459,7 +489,9 @@
             }
           ],
           "sectorNote": "The official biography lists portfolio experience but does not state a personal sector mandate.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, Wiza, Prospeo, Foundersuite and ContactOut searches. Matching listings mask the address, show only formats or require login. No complete current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         },
         {
           "id": "peter-nurnberg",
@@ -498,7 +530,9 @@
             }
           ],
           "sectorNote": "Documented portfolio exposure through Golden State Foods and MMS Holdings; no exclusive sector mandate is stated.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, public document searches, SignalHire, Lead411 and ContactOut searches. Matching directories mask the current-firm address. No complete person-specific current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         }
       ],
       "researchedAt": "2026-10-07"
@@ -546,8 +580,11 @@
           ],
           "background": "Joined in 2002 after strategy consulting at The Parthenon Group. Previously served on the investment team and now focuses on operations, business development and human capital management.",
           "interests": [],
-          "email": null,
-          "emailSource": null,
+          "email": "pmartin@audaxprivateequity.com",
+          "emailSource": {
+            "title": "ContactOut — Pamela Finnerty Martin, public profile FAQ",
+            "url": "https://contactout.com/PamelaFinnerty-Martin-76896071"
+          },
           "photoUrl": "https://bucket-production-9781.up.railway.app/audax-media-bucket/Martin_Pam_Formal.webp",
           "photoSource": {
             "title": "Pamela Martin — official photograph",
@@ -561,7 +598,11 @@
             }
           ],
           "sectorNote": "These are her stated functional responsibilities; an exclusive industry-sector mandate is not disclosed.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailNote": "Publicly listed in ContactOut’s rendered profile FAQ. Third-party publication, not confirmed by the firm; deliverability not tested.",
+          "emailEvidenceType": "third-party",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "pmartin@audaxprivateequity.com"
         },
         {
           "id": "matthew-gosselin",
@@ -600,7 +641,9 @@
             }
           ],
           "sectorNote": "Documented transaction exposure includes Total PowerGen Solutions; this is not an exclusive sector mandate.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailResearch": "Reviewed official biography, the public Audax firm factsheet, public document searches, SignalHire and ContactOut searches. Matching current-firm listings mask the address; same-name unrelated profiles were excluded. No complete current-firm work address verified.",
+          "emailReviewedAt": "2026-10-07"
         }
       ],
       "researchedAt": "2026-10-07"
@@ -751,7 +794,10 @@
           ],
           "sectorNote": "Healthcare exposure is documented through Knipper Health; her biography does not state an exclusive sector mandate.",
           "emailNote": "Published on her current official biography; deliverability not tested.",
-          "researchedAt": "2026-10-07"
+          "researchedAt": "2026-10-07",
+          "emailEvidenceType": "company",
+          "emailReviewedAt": "2026-10-07",
+          "emailEvidence": "sdonaldson@courtsquare.com"
         }
       ],
       "researchedAt": "2026-10-07"
