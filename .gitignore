@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+test-results/
+.screenshots/
+__pycache__/
+research/raw*/
+research/*cache*/
+research/*.html
+research/*.pdf
+research/*.txt
+research/*fetch*
+research/*
+!research/group-*.json

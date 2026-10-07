@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#e5ece6">
+  <meta name="description" content="Explore Stanford GSB alumni at leading US middle and upper-middle-market private equity firms. Public-source profiles, investment sectors, and transparent AUM rankings.">
+  <title>GSB Atlas — A shared beginning. A world of connections.</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#directory">Skip to directory</a>
+  <div class="ambient ambient-one" aria-hidden="true"></div><div class="ambient ambient-two" aria-hidden="true"></div><div class="ambient ambient-three" aria-hidden="true"></div>
+  <div class="site-shell">
+    <header class="topbar glass">
+      <a class="brand" href="#" aria-label="GSB Atlas home"><span class="brand-mark" aria-hidden="true">✳</span><span>GSB<span class="brand-light">Atlas</span><span class="brand-dot">.</span></span></a>
+      <nav aria-label="Main navigation"><a href="#directory" data-view="people" class="nav-link active">Explore</a><a href="#directory" data-view="firms" class="nav-link">The firms</a><button class="nav-link" data-action="methodology">Our methodology <span class="tiny-arrow">↗</span></button></nav>
+      <button class="saved-nav" data-view="saved" aria-label="View saved profiles"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v17l-6-4-6 4Z"/></svg><span>My shortlist</span><span id="saved-count" class="counter">0</span></button>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy"><div class="eyebrow"><span class="status-dot"></span> THE STANFORD GSB × PRIVATE EQUITY DIRECTORY</div><h1>A shared beginning.<br>A world of <span>connections.</span></h1><p>Discover GSB MBA alumni across leading US private equity firms.<br class="desktop-break"> Find the people, the expertise, and your next conversation.</p><div class="hero-meta"><span class="mini-seal">S</span><span>Publicly sourced. Thoughtfully connected.</span><button class="round-link" data-action="methodology" aria-label="Read research methodology">↗</button></div></div>
+        <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><div class="orb orb-green"></div><div class="orb orb-cream"></div><div class="art-star">✳</div><div class="art-label glass"><span class="status-dot"></span> A little closer to your next chapter.</div></div>
+      </section>
+
+      <section class="stats glass" aria-label="Research coverage"><div class="stat"><span class="stat-number" id="firm-stat">—</span><span class="stat-label">Private equity firms <span>Middle & upper-middle market</span></span></div><div class="stat"><span class="stat-number" id="people-stat">—</span><span class="stat-label">GSB MBA alumni identified <span>With public education sources</span></span></div><div class="stat"><span class="stat-number" id="sector-stat">—</span><span class="stat-label">Investment sectors <span>Find your area of interest</span></span></div><div class="stat research-stat"><span class="research-icon">↗</span><span class="stat-label">Follow the evidence <span>Sources on every profile</span></span><button class="text-button" data-action="methodology" aria-label="View source methodology">→</button></div></section>
+
+      <section id="directory" class="directory">
+        <div class="directory-heading"><div><div class="eyebrow small">THE DIRECTORY</div><h2>Find your common ground.</h2></div><button class="export-button glass" id="export-button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M5 16v5h14v-5"/></svg> Export results</button></div>
+        <div class="toolbar glass"><div class="view-tabs" role="tablist" aria-label="Directory view"><button id="people-tab" class="view-tab active" data-view="people" role="tab" aria-selected="true" aria-controls="results"><span>Alumni</span><span id="people-tab-count" class="tab-count"></span></button><button id="firms-tab" class="view-tab" data-view="firms" role="tab" aria-selected="false" aria-controls="results">Firm rankings</button><button id="saved-tab" class="view-tab" data-view="saved" role="tab" aria-selected="false" aria-controls="results">Shortlist</button></div><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input type="search" id="search" placeholder="Search people, firms, expertise…" aria-label="Search people, firms, and expertise"><kbd>/</kbd></label></div>
+        <div class="directory-layout"><aside class="filters glass" aria-label="Directory filters"><div class="filter-heading"><h3>Refine your search</h3><button id="reset-filters" class="text-button">Reset</button></div><label class="field-label" for="firm-filter">FIRM</label><select id="firm-filter"><option value="">All firms</option></select><select id="mobile-sector-filter" aria-label="Investment focus"><option value="">All investment sectors</option></select><div class="filter-divider"></div><div class="field-label">INVESTMENT FOCUS</div><div id="sector-filters" class="sector-filters"></div><div class="filter-divider"></div><label class="check-label"><input id="email-filter" type="checkbox"><span>Public email available</span></label><div class="filter-note"><span class="note-icon">i</span><p>Good connections start with good information. Each profile links to its public sources.</p><button class="text-button" data-action="methodology">How we research <span>↗</span></button></div></aside>
+          <div class="results-wrap"><div class="results-topline"><p id="results-summary" aria-live="polite">Loading the directory…</p><label class="sort-label">Sort by <select id="sort"><option value="firm-aum">Firm AUM ↓</option><option value="name">Name A–Z</option></select></label></div><div id="active-filters" class="active-filters"></div><div id="ranking-note" class="ranking-note" hidden>Ranked within this researched universe by disclosed AUM. Firmwide and adviser regulatory figures are labeled in each firm’s source notes. Dates and asset scope vary; “+” figures are lower bounds. This is not a definitive US league table. <button class="text-button" data-action="methodology">Read methodology ↗</button></div><div id="results" class="people-grid" role="tabpanel" aria-labelledby="people-tab"><div class="loading-card glass">Bringing the network into view…</div></div><div class="coverage-note"><span class="status-dot"></span><p>A living picture, not a complete alumni roster. <button data-action="methodology" class="text-button">View research scope & limitations ↗</button></p></div></div>
+        </div>
+      </section>
+    </main>
+    <footer><a class="brand" href="#"><span class="brand-mark" aria-hidden="true">✳</span><span>GSB<span class="brand-light">Atlas</span><span class="brand-dot">.</span></span></a><p>Independent research. Shared possibilities.<br><span>Not affiliated with Stanford University or the firms listed.</span></p><div><button data-action="methodology" class="text-button">Sources & methodology ↗</button><span class="updated">Research reviewed October 7, 2026</span><a href="https://github.com/dev1niscool/GSB_Atlas" target="_blank" rel="noopener noreferrer">View on GitHub ↗</a></div></footer>
+  </div>
+  <dialog id="detail-dialog" aria-labelledby="dialog-title"><div id="dialog-content"></div></dialog>
+  <div id="toast" class="toast glass" role="status"></div>
+</body>
+</html>
