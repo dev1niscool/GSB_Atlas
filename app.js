@@ -8,7 +8,7 @@ const bookmarkIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h
 const checkIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 4 4L19 6"/></svg>';
 const sourceIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H5v18h14V8Zm0 0v5h5M8 12h8M8 16h6"/></svg>';
 let data = {firms:[]}, people = [], firms = [], currentItems = [], toastTimer;
-const state = {view:'people', query:'', firm:'', sectors:new Set(), email:false, sort:'firm-aum'};
+const state = {view:'people', query:'', firm:'', sectors:new Set(), email:true, sort:'firm-aum'};
 let saved = new Set();
 try { const s = JSON.parse(localStorage.getItem('gsb-atlas-shortlist') || '[]'); if (Array.isArray(s)) saved = new Set(s.filter(x => typeof x === 'string')); } catch { /* Local storage is optional. */ }
 
@@ -135,6 +135,7 @@ async function init(){
   $('#firm-filter').innerHTML='<option value="">All firms</option>'+[...firms].sort((a,b)=>a.name.localeCompare(b.name)).map(f=>`<option value="${e(f.id)}">${e(f.name)}</option>`).join('');
   $('#mobile-sector-filter').innerHTML='<option value="">All investment sectors</option>'+sectors.map(s=>`<option value="${e(s)}">${e(s)}</option>`).join('');
   $('#sector-filters').innerHTML=sectors.map(s=>`<label class="check-label"><input type="checkbox" data-sector="${e(s)}"><span>${e(s)}</span><span class="sector-count">${people.filter(p=>p.sectors.includes(s)).length}</span></label>`).join('');
+  syncControls();
   render();
  }catch(error){$('#export-button').disabled=true;$('#results-summary').textContent='Directory unavailable';$('#results').innerHTML='<div class="empty-state glass"><h3>We couldn’t load the research.</h3><p>Please refresh the page to try again.</p><a class="primary-button" href=".">Reload directory ↻</a></div>';console.error(error);}
 }
