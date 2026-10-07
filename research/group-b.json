@@ -1,0 +1,972 @@
+{
+  "firms": [
+    {
+      "id": "l-catterton",
+      "name": "L Catterton",
+      "website": "https://www.lcatterton.com",
+      "headquarters": "Greenwich, Connecticut",
+      "aumBillions": 40,
+      "aumDisplay": "~$40B",
+      "aumAsOf": "Not stated on current overview",
+      "aumBasis": "Firm-reported equity capital under management; global platform across buyout, middle-market and growth strategies.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.lcatterton.com/Aboutus.html"
+      },
+      "sectors": [
+        "Consumer",
+        "Retail",
+        "Food & beverage",
+        "Health & wellness"
+      ],
+      "description": "Consumer specialist with global buyout, middle-market and growth funds.",
+      "scopeNote": "Global US-headquartered platform; flagship and international strategies extend beyond a pure US UMM universe.",
+      "coverageNote": "Official team data and current roster checked. Expired team records, non-GSB degrees and staff of separate portfolio-services entities excluded.",
+      "people": [
+        {
+          "id": "khan-farah",
+          "name": "Farah Khan",
+          "title": "Managing Partner",
+          "location": "Americas (individual office not stated)",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer",
+            "Latin America",
+            "Growth equity",
+            "Buyouts"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Leads Latin America investing after earlier North American growth and buyout work. Previously invested at Sandler Capital and Apax Partners and worked in Goldman Sachs investment banking.",
+          "interests": [],
+          "email": "farah.khan@lcatterton.com",
+          "emailSource": {
+            "title": "Official public team data",
+            "url": "https://www.lcatterton.com/js/people.json"
+          },
+          "photoUrl": "https://www.lcatterton.com/images-people/Khan-Farah.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.lcatterton.com/People.html#!/bio/Khan-Farah"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.lcatterton.com/People.html#!/bio/Khan-Farah"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.lcatterton.com/js/people.json"
+            }
+          ]
+        },
+        {
+          "id": "schechtmann-carlos",
+          "name": "Carlos Schechtmann",
+          "title": "Vice President",
+          "location": "Americas (individual office not stated)",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 2020,
+          "sectors": [
+            "Consumer",
+            "Retail",
+            "Buyouts"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Consumer investor previously with Carlyle’s US Buyout Fund and GRAM’s founding team. Began his career in Morgan Stanley’s consumer and retail investment banking group.",
+          "interests": [],
+          "email": "carlos.schechtmann@lcatterton.com",
+          "emailSource": {
+            "title": "Official public team data",
+            "url": "https://www.lcatterton.com/js/people.json"
+          },
+          "photoUrl": "https://www.lcatterton.com/images-people/Schechtmann-Carlos.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.lcatterton.com/People.html#!/bio/Schechtmann-Carlos"
+          },
+          "linkedin": "https://www.linkedin.com/in/carlosschechtmann",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.lcatterton.com/People.html#!/bio/Schechtmann-Carlos"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.lcatterton.com/js/people.json"
+            },
+            {
+              "title": "Public LinkedIn education",
+              "url": "https://www.linkedin.com/in/carlosschechtmann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "centerbridge",
+      "name": "Centerbridge Partners",
+      "website": "https://www.centerbridge.com",
+      "headquarters": "New York, New York",
+      "aumBillions": 49,
+      "aumDisplay": "~$49B",
+      "aumAsOf": "2026-06-30",
+      "aumBasis": "Firmwide AUM across private equity, private credit and real estate; private-equity AUM separately disclosed as $16B+.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.centerbridge.com/"
+      },
+      "sectors": [
+        "Financial services",
+        "Healthcare",
+        "Industrials",
+        "Technology",
+        "Real estate"
+      ],
+      "description": "Alternative investment manager whose control private-equity strategy explicitly targets upper-middle-market buyouts.",
+      "scopeNote": "Firmwide AUM includes substantial credit and real estate assets.",
+      "coverageNote": "Official team biographies reviewed; these are publicly verified matches, not a guarantee of every employee’s education.",
+      "people": [
+        {
+          "id": "alissa-bonneau",
+          "name": "Alissa Bonneau",
+          "title": "Managing Director, Portfolio Operations",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA; Arjay Miller Scholar",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations",
+            "Value creation"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2021 after KKR Capstone and Bain & Company. Works with portfolio management on commercial growth, technology strategy, efficiency, M&A and organizational development.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://cdn.prod.website-files.com/685d4f8ac351c855854a7c56/68b87dfeccc1ae8d79ad22dd_Bonneau%2C%20Alissa.avif",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.centerbridge.com/our-team/alissa-bonneau"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.centerbridge.com/our-team/alissa-bonneau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wcas",
+      "name": "Welsh, Carson, Anderson & Stowe",
+      "website": "https://www.wcas.com",
+      "headquarters": "New York, New York",
+      "aumBillions": 14.896139555,
+      "aumDisplay": "$14.9B",
+      "aumAsOf": "FY2025; filing 2026-05-26",
+      "aumBasis": "Regulatory AUM of WCAS Management Corporation (CRD 155695), reported by FormDs from Form ADV Item 5.F; not cumulative capital raised.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/wcas-management-corporation?filing=2108226"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology"
+      ],
+      "description": "US middle-market buyout specialist focused on healthcare and technology.",
+      "scopeNote": "Rank uses the named registered adviser’s regulatory AUM.",
+      "coverageNote": "Current official team and biography data reviewed, including public website application data.",
+      "people": [
+        {
+          "id": "frances-higgins",
+          "name": "Frances Higgins",
+          "title": "General Partner & Co-Head of Fundraising and Investor Relations",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Fundraising",
+            "Investor relations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Leads institutional investor relationships, fundraising and limited-partner communications. Her prior experience includes JPMorgan Chase.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.wcas.com/team/frances-higgins.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.wcas.com/team/frances-higgins"
+          },
+          "linkedin": "https://www.linkedin.com/in/fran-higgins-85b5a1283/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.wcas.com/team/frances-higgins"
+            },
+            {
+              "title": "Official team directory",
+              "url": "https://www.wcas.com/team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roark",
+      "name": "Roark Capital",
+      "website": "https://www.roarkcapital.com",
+      "headquarters": "Atlanta, Georgia",
+      "aumBillions": 41,
+      "aumDisplay": "$41B",
+      "aumAsOf": "Not stated on current overview",
+      "aumBasis": "Firm-reported AUM.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.roarkcapital.com/about"
+      },
+      "sectors": [
+        "Consumer services",
+        "Business services",
+        "Franchising",
+        "Restaurants",
+        "Education"
+      ],
+      "description": "Private-equity firm specializing in consumer and business services with franchise and franchise-like models.",
+      "scopeNote": "Large franchise platforms can extend beyond traditional UMM deal sizes.",
+      "coverageNote": "Full public team page searched for Stanford; undergraduate-only matches excluded.",
+      "people": [
+        {
+          "id": "sarah-spiegel",
+          "name": "Sarah Spiegel",
+          "title": "Managing Director",
+          "location": "Atlanta",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Restaurants",
+            "Consumer",
+            "Portfolio operations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2019 and serves on Roark’s Investment Committee. Former CEO of Coffee & Bagel Brands, Bain Capital portfolio executive and LEGO strategy leader; her board work includes GoTo Foods, CKE and Nothing Bundt Cakes.",
+          "interests": [],
+          "email": "sspiegel@roarkcapital.com",
+          "emailSource": {
+            "title": "Published professional email",
+            "url": "https://www.roarkcapital.com/ourteam"
+          },
+          "photoUrl": "https://www.roarkcapital.com/images/team2/Sarah_Spiegel.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.roarkcapital.com/ourteam"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.roarkcapital.com/ourteam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "american-securities",
+      "name": "American Securities",
+      "website": "https://www.american-securities.com",
+      "headquarters": "New York, New York",
+      "aumBillions": 23,
+      "aumDisplay": "$23B+",
+      "aumAsOf": "Not stated on current overview",
+      "aumBasis": "Firm-reported assets under management.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.american-securities.com/our-firm/our-focus/"
+      },
+      "sectors": [
+        "Industrials",
+        "Business services",
+        "Building products",
+        "Power & energy",
+        "Specialty materials"
+      ],
+      "description": "Private-equity firm partnering with industrial and services businesses through operational improvement and long-term growth.",
+      "scopeNote": "Invests across middle-market and larger businesses.",
+      "coverageNote": "Current team biographies scanned. External Advisory Board and Executive Council members excluded from employee results.",
+      "people": [
+        {
+          "id": "michael-fisch",
+          "name": "Michael Fisch",
+          "title": "Founder & CEO",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Private equity leadership"
+          ],
+          "sectorNote": "Firmwide leadership; a single personal investment-sector mandate is not stated.",
+          "background": "Founded American Securities in 1994 and leads the firm and its Investment Committee. Previously worked in private equity, Bain’s Paris office and Goldman Sachs M&A; serves on several educational and nonprofit boards.",
+          "interests": [
+            "Ironman triathlons",
+            "Philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/127/xs_michael-fisch-american-securities-founder-ceo-headshot.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.american-securities.com/team/michael-fisch/"
+          },
+          "linkedin": "https://www.linkedin.com/in/michaelfisch-americansecurities/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.american-securities.com/team/michael-fisch/"
+            }
+          ]
+        },
+        {
+          "id": "kevin-zhou",
+          "name": "Kevin Zhou",
+          "title": "Principal",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer products",
+            "Business services"
+          ],
+          "sectorNote": "Sector labels reflect the biography’s named portfolio companies and previous investment experience.",
+          "background": "Joined in 2020 after Long Arc Capital and Och-Ziff, with earlier Goldman Sachs experience. A director of Conair and RealManage; prior work spanned energy, technology, financial and business services.",
+          "interests": [],
+          "email": "kzhou@american-securities.com",
+          "emailSource": {
+            "title": "Published professional email",
+            "url": "https://www.american-securities.com/team/kevin-zhou/"
+          },
+          "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/528/xs_21_Kevin_Zhou_1507.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.american-securities.com/team/kevin-zhou/"
+          },
+          "linkedin": "https://www.linkedin.com/in/kevinxzhou2013/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.american-securities.com/team/kevin-zhou/"
+            }
+          ]
+        },
+        {
+          "id": "ross-andrese",
+          "name": "Ross Andrese",
+          "title": "Partner, Resources Group and Strategy Team",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations",
+            "Value creation"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2011 after McKinsey. Helps evaluate new investments and execute value-creation plans, with experience in strategic planning, commercial improvement, margins, M&A diligence and integration.",
+          "interests": [],
+          "email": "randrese@american-securities.com",
+          "emailSource": {
+            "title": "Published professional email",
+            "url": "https://www.american-securities.com/team/ross-andrese/"
+          },
+          "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/578/xs_Ross_Andrese-3.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.american-securities.com/team/ross-andrese/"
+          },
+          "linkedin": "https://www.linkedin.com/in/ross-andrese-002a0415",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.american-securities.com/team/ross-andrese/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thl",
+      "name": "THL Partners",
+      "website": "https://thl.com",
+      "headquarters": "Boston, Massachusetts",
+      "aumBillions": 21.483389334,
+      "aumDisplay": "$21.5B",
+      "aumAsOf": "FY2025; filing 2026-07-02",
+      "aumBasis": "Regulatory AUM of THL Managers VII, LLC (CRD 171042), an umbrella adviser including relying advisers, via FormDs. Not consolidated total lifetime capital managed or deployed.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://formds.com/investment-advisers/thl-managers-vii-llc?filing=2117406"
+      },
+      "sectors": [
+        "Financial & essential services",
+        "Healthcare",
+        "Technology",
+        "Automation"
+      ],
+      "description": "Middle-market growth investor organized around specialized industry opportunities.",
+      "scopeNote": "Rank uses the named umbrella adviser’s regulatory AUM.",
+      "coverageNote": "All 175 biographies in the current public sitemap searched for Stanford, with matching degree biographies reviewed. Advisory role labeled explicitly.",
+      "people": [
+        {
+          "id": "tyler-griffith",
+          "name": "Tyler Griffith",
+          "title": "Managing Director, Investor Relations",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 2010,
+          "sectors": [
+            "Fundraising",
+            "Investor relations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2010 and leads fundraising and investor outreach in Europe, Australia, the western US and other markets. Previously worked at GCA Savvian and Lehman Brothers.",
+          "interests": [
+            "Skiing",
+            "Mountaineering",
+            "Hiking"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://thl.com/wp-content/uploads/2022/11/230725_THL_Portraits_191_TylerGriffith_43748_v1x.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://thl.com/people/tyler-griffith/"
+          },
+          "linkedin": "https://www.linkedin.com/in/tyler-griffith-b4a98519",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://thl.com/people/tyler-griffith/"
+            },
+            {
+              "title": "Public LinkedIn education",
+              "url": "https://www.linkedin.com/in/tyler-griffith-b4a98519"
+            }
+          ]
+        },
+        {
+          "id": "seth-lawry",
+          "name": "Seth Lawry",
+          "title": "Advisory Partner",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 1992,
+          "sectors": [
+            "Business services",
+            "Investment advisory"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Advises THL’s investment team on current and prospective deals. Formerly served on business-services company boards including Agencyport, CompuCom, FIS and MoneyGram; prior experience includes Morgan Stanley and General Atlantic.",
+          "interests": [
+            "Nonprofit volunteering"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://thl.com/wp-content/uploads/2022/11/SLawry-copy.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://thl.com/people/seth-lawry/"
+          },
+          "linkedin": "https://www.linkedin.com/in/seth-lawry-1b5b0770",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://thl.com/people/seth-lawry/"
+            },
+            {
+              "title": "Public LinkedIn education",
+              "url": "https://www.linkedin.com/in/seth-lawry-1b5b0770"
+            }
+          ],
+          "relationshipNote": "Current advisory partner listed by the firm; not represented as an active full-time deal-team employee."
+        }
+      ]
+    },
+    {
+      "id": "madison-dearborn",
+      "name": "Madison Dearborn Partners",
+      "website": "https://www.mdcp.com",
+      "headquarters": "Chicago, Illinois",
+      "aumBillions": 20.74048676,
+      "aumDisplay": "$20.7B",
+      "aumAsOf": "FY2025; filing 2026-03-31",
+      "aumBasis": "Regulatory AUM of Madison Dearborn Partners, LLC (CRD 157349), reported by FormDs from Form ADV Item 5.F; not cumulative capital raised.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/madison-dearborn-partners?filing=2049289"
+      },
+      "sectors": [
+        "Financial services",
+        "Healthcare",
+        "Technology & government"
+      ],
+      "description": "Chicago private-equity firm focused on financial services, healthcare, and technology and government businesses.",
+      "scopeNote": "Rank uses registered adviser regulatory AUM.",
+      "coverageNote": "Official team biographies reviewed; these are publicly verified matches, not a guarantee of every employee’s education.",
+      "people": [
+        {
+          "id": "brandon-levitan",
+          "name": "Brandon Levitan",
+          "title": "Managing Director & Co-Head of Technology & Government",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Government services"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Previously an MDP associate and Citi M&A analyst; co-founded airspace-monitoring business Walaris before returning. Board work includes AEVEX, Axonis, Revolutional, OMNI, T2S Solutions and Unison.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/387/Levitan-Brandon-220822-40990-fave-final-linkedin.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/brandon-levitan"
+          },
+          "linkedin": "https://www.linkedin.com/in/brandonlevitan",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/brandon-levitan"
+            }
+          ]
+        },
+        {
+          "id": "elizabeth-betten",
+          "name": "Elizabeth Q. Betten",
+          "title": "Partner & Co-Head of Healthcare",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2004 and returned after business school in 2008. Previously a J.P. Morgan healthcare banker; serves on healthcare company boards and the Stanley Manne Children’s Research Institute board.",
+          "interests": [
+            "Children’s research philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/168/mdp-headshot-mdp_12-5_0171.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/elizabeth-q-betten"
+          },
+          "linkedin": "https://www.linkedin.com/in/elizabeth-q-betten-94a43364",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/elizabeth-q-betten"
+            }
+          ]
+        },
+        {
+          "id": "jason-shideler",
+          "name": "Jason Shideler",
+          "title": "Partner & Co-Head of Healthcare",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined MDP in 2006 and returned after business school in 2010. Serves on the boards of NextGen Healthcare and Performance Health; previous board roles include Alcami, Ikaria, Sage Products and Syntellis.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/185/Shideler-Jason-JAN_2024_Web.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/jason-shideler"
+          },
+          "linkedin": "https://www.linkedin.com/in/jason-shideler-a657173/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/jason-shideler"
+            }
+          ]
+        },
+        {
+          "id": "tanner-scott",
+          "name": "Tanner Scott",
+          "title": "Managing Director",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Healthcare investor previously with RoundTable Healthcare Partners and Deutsche Bank. Involved in APM, with prior work on Solis Mammography, Alcami and Option Care Health.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/437/Scott-Tanner-220822-41491-fave-final-linkedin.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/tanner-scott"
+          },
+          "linkedin": "https://www.linkedin.com/in/tanner-scott-2a105446/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/tanner-scott"
+            }
+          ]
+        },
+        {
+          "id": "timothy-sullivan",
+          "name": "Timothy P. Sullivan",
+          "title": "Vice Chairman",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare",
+            "Private equity leadership"
+          ],
+          "sectorNote": "Healthcare reflects the biography’s named portfolio board roles; current title is firmwide Vice Chairman.",
+          "background": "MDP co-founder with earlier First Chicago Venture Capital experience and US Navy service. His portfolio history focuses on healthcare; also serves on university, healthcare and education nonprofit boards.",
+          "interests": [
+            "Education philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/180/Sullivan-Tim-JAN_2024_Web.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/timothy-p-sullivan"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/timothy-p-sullivan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berkshire-partners",
+      "name": "Berkshire Partners",
+      "website": "https://berkshirepartners.com",
+      "headquarters": "Boston, Massachusetts",
+      "aumBillions": 29.003502903,
+      "aumDisplay": "$29.0B",
+      "aumAsOf": "FY2025; filing 2026-03-27",
+      "aumBasis": "Regulatory AUM of Berkshire Partners LLC (CRD 160675), via FormDs. Excludes separately registered affiliate Stockbridge; not consolidated private-plus-public firmwide AUM.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/berkshire-partners-llc?filing=2066808"
+      },
+      "sectors": [
+        "Services",
+        "Industrials",
+        "Technology",
+        "Healthcare",
+        "Consumer"
+      ],
+      "description": "Middle-market investor helping growing companies build scale; the wider platform also includes Stockbridge public equity.",
+      "scopeNote": "Rank uses the private-equity adviser’s regulatory AUM, excluding Stockbridge.",
+      "coverageNote": "All current public team biographies scanned. Retired Managing Director Jon Meyer and independent Advisory Director Gideon Argov excluded. Kevin Callaghan’s current Senior Advisor role and Saad Hasan’s Stockbridge role are labeled.",
+      "people": [
+        {
+          "id": "candice-corvetti",
+          "name": "Candice Corvetti",
+          "title": "Managing Director",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Services"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Services investor involved in AHEAD, Parts Town, Thrive and United Flow Technologies. Joined in 2014 after Madison Dearborn Partners and J.P. Morgan.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Corvetti-Candice.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/candice-corvetti/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/candice-corvetti/"
+            }
+          ]
+        },
+        {
+          "id": "jon-karp",
+          "name": "Jon Karp",
+          "title": "Vice President",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Digital infrastructure"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Focuses on technology and digital infrastructure. Originally joined in 2018 and returned in 2025 after a director role at KOKO Networks; works with Point Broadband.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2025/09/Jon-Karp.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/jon-karp/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/jon-karp/"
+            }
+          ]
+        },
+        {
+          "id": "ladd-hamrick",
+          "name": "Ladd Hamrick",
+          "title": "Principal",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 2020,
+          "sectors": [
+            "Industrials"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Industrials investor involved with Consolidated Precision Products, National Carwash Solutions, RJW Logistics and Triumph. Originally joined in 2015 and returned after his Stanford MBA in 2020; previously a J.P. Morgan analyst.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://live-berkshire-partners.pantheonsite.io/wp-content/uploads/2020/11/Hamrick-Ladd.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/ladd-hamrick/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/ladd-hamrick/"
+            }
+          ]
+        },
+        {
+          "id": "ross-jones",
+          "name": "Ross Jones",
+          "title": "Managing Director",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Private equity leadership"
+          ],
+          "sectorNote": "Current remit is firm strategic initiatives; biography does not specify one sector.",
+          "background": "Longtime private-equity investor involved in firm strategic initiatives. Joined in 1993 after Bain and an early-stage merchant bank; previously chaired the Governance & Policy and Private Equity committees.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2023/06/Jones-Ross-scaled-e1686931224443.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/ross-jones/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/ross-jones/"
+            }
+          ]
+        },
+        {
+          "id": "saad-hasan",
+          "name": "Saad Hasan",
+          "title": "Managing Director, Stockbridge",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Public equity"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Public-equity investor with the Stockbridge team. Joined in 2011 after private-equity work at Hellman & Friedman and consulting at Bain & Company.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Hasan-Saad.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/saad-hasan/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/saad-hasan/"
+            }
+          ],
+          "relationshipNote": "Member of the firm’s Stockbridge public-equity team, not the private-equity deal team."
+        },
+        {
+          "id": "ted-rainaud",
+          "name": "Ted Rainaud",
+          "title": "Managing Director",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Industrials"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Industrials investor involved with FoodChain ID, Harvey Performance Company and Triumph. First joined in 2010 and returned in 2014 after business school; previously worked at Bain & Company.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2024/07/Rainaud-Ted_WEB.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/ted-rainaud/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/ted-rainaud/"
+            }
+          ]
+        },
+        {
+          "id": "kevin-callaghan",
+          "name": "Kevin Callaghan",
+          "title": "Senior Advisor",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Private equity advisory"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Senior advisor on the Private Equity team, with prior investment involvement across consumer, services and industrial businesses. Joined in 1987 after Lehman Brothers.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Callaghan-Kevin_WEB.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/kevin-callaghan/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/kevin-callaghan/"
+            }
+          ],
+          "relationshipNote": "Current Senior Advisor listed by the firm; not represented as an active full-time deal-team employee."
+        }
+      ]
+    },
+    {
+      "id": "charlesbank",
+      "name": "Charlesbank Capital Partners",
+      "website": "https://www.charlesbank.com",
+      "headquarters": "Boston, Massachusetts / New York, New York",
+      "aumBillions": 21.5,
+      "aumDisplay": "~$21.5B",
+      "aumAsOf": "2026-03-31",
+      "aumBasis": "Firmwide AUM across private equity and private credit.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.charlesbank.com/faqs/"
+      },
+      "sectors": [
+        "Business services",
+        "Consumer",
+        "Healthcare",
+        "Industrials",
+        "Technology"
+      ],
+      "description": "US middle-market investor with private-equity and private-credit strategies.",
+      "scopeNote": "Firmwide AUM includes credit assets.",
+      "coverageNote": "Official team biographies reviewed; these are publicly verified matches, not a guarantee of every employee’s education.",
+      "people": [
+        {
+          "id": "joshua-klevens",
+          "name": "Joshua Klevens",
+          "title": "Managing Director & Chief Operating Officer",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Firm operations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined the investment team in 2005 and became COO in 2022, overseeing finance, legal, human capital and technology. Previously worked at Bain Capital and McKinsey.",
+          "interests": [
+            "Youth advocacy",
+            "Boys & Girls Clubs of Boston"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.charlesbank.com/system/uploads/fae/image/asset/635/xs_Joshua_Klevens_-_New_CMS_v2.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.charlesbank.com/team/joshua-klevens/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.charlesbank.com/team/joshua-klevens/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

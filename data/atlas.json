@@ -1,0 +1,3811 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-07",
+  "title": "GSB Atlas",
+  "scope": "Editorial selection of major US middle-market and UMM-active private equity firms; not a definitive national ranking or exhaustive alumni roster.",
+  "rankingBasis": "Latest accessible disclosed USD AUM, including named adviser regulatory AUM where identified; dates and scopes vary. Never cumulative capital raised.",
+  "degreePriority": "Stanford Graduate School of Business MBA",
+  "firms": [
+    {
+      "id": "clearlake",
+      "name": "Clearlake Capital Group",
+      "website": "https://clearlake.com/",
+      "headquarters": "Santa Monica, CA",
+      "aumBillions": 185,
+      "aumDisplay": "$185B+",
+      "aumAsOf": "June 9, 2026",
+      "aumBasis": "Combined AUM after acquisition of Pathway Capital Management, which contributes over $95B.",
+      "aumSource": {
+        "title": "Clearlake completes strategic acquisition of Pathway",
+        "url": "https://clearlake.com/news/clearlake-completes-strategic-acquisition-of-pathway-capital-management/"
+      },
+      "sectors": [
+        "Technology",
+        "Industrials",
+        "Consumer & retail",
+        "Credit & special situations"
+      ],
+      "description": "Flexible capital platform spanning private equity, credit and private-markets solutions, with an operational improvement approach.",
+      "scopeNote": "Boundary case: a broad global platform, including large-cap buyouts, credit and Pathway fund investments. $185B is combined platform AUM, not UMM or direct-buyout AUM.",
+      "coverageNote": "Current firm materials, Stanford sources and public professional profiles checked. Current website does not expose a complete staff biography directory; this is a verified subset of Clearlake professionals, not a census of Pathway employees.",
+      "people": [
+        {
+          "id": "clearlake--jos-e-feliciano",
+          "name": "José E. Feliciano",
+          "title": "Co-Founder and Managing Partner",
+          "location": "Santa Monica, CA",
+          "education": "MBA, Stanford GSB; BS, Mechanical & Aerospace Engineering, Princeton",
+          "degree": "MBA",
+          "gradYear": 1999,
+          "sectors": [
+            "Technology",
+            "Industrials",
+            "Consumer & retail"
+          ],
+          "background": "Co-founded Clearlake in 2006 after working at Tennenbaum Capital, as CFO of govWorks and in Goldman Sachs investment banking. Co-founded a philanthropic initiative supporting education, entrepreneurship and equal opportunity.",
+          "interests": [
+            "Education philanthropy",
+            "Entrepreneurship and equal opportunity"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "assets/portraits/jose-feliciano.jpg",
+          "photoSource": {
+            "title": "Clearlake presentation to Pennsylvania SERS, December 2023, page 13 (portrait)",
+            "url": "https://sers.pa.gov/pdf/Investments/Investment%20Materials/12-12-2023-Clearlake%20VIII-Presentation.pdf#page=13"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Stanford GSB Advisory Council",
+              "url": "https://www.gsb.stanford.edu/experience/about/leadership/advisory-council/members"
+            },
+            {
+              "title": "Stanford trustee biography",
+              "url": "https://news.stanford.edu/stories/2021/07/jose-e-feliciano-james-coulter-elected-stanford-board-trustees"
+            },
+            {
+              "title": "Nile Capital Group advisory biography",
+              "url": "https://www.nilecapitalgroup.com/about/"
+            }
+          ],
+          "sectorNote": "Firm-level core PE sectors; leadership spans the platform.",
+          "photoNote": "Portrait from the firm’s December 2023 presentation to Pennsylvania SERS.",
+          "sectorDetail": [
+            "Technology",
+            "Industrials",
+            "Consumer"
+          ]
+        },
+        {
+          "id": "clearlake--martin-arzac",
+          "name": "Martin Arzac",
+          "title": "Managing Director",
+          "location": "Santa Monica, CA",
+          "education": "MBA, Stanford GSB; AB, Economics, Stanford",
+          "degree": "MBA",
+          "gradYear": 2001,
+          "sectors": [
+            "Credit & special situations"
+          ],
+          "background": "Works on debt investments, transaction structuring and firm-wide strategic initiatives. Previously a Managing Director at Deutsche Bank and held roles at UBS and Donaldson, Lufkin & Jenrette.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "assets/portraits/martin-arzac.jpg",
+          "photoSource": {
+            "title": "Clearlake presentation to Pennsylvania SERS, December 2023, page 13 (portrait)",
+            "url": "https://sers.pa.gov/pdf/Investments/Investment%20Materials/12-12-2023-Clearlake%20VIII-Presentation.pdf#page=13"
+          },
+          "linkedin": "https://www.linkedin.com/in/martin-arzac",
+          "sources": [
+            {
+              "title": "Clearlake appointment and responsibilities",
+              "url": "https://clearlake.com/news/clearlake-capital-group-announces-team-promotions-and-additions/"
+            },
+            {
+              "title": "Public LinkedIn profile and education dates",
+              "url": "https://www.linkedin.com/in/martin-arzac"
+            },
+            {
+              "title": "Connecticut investment advisory materials — education",
+              "url": "https://portal.ct.gov/-/media/OTT/Pension-Funds/Investment-Advisory-Council/020922IACmeetingInfoPacket.pdf"
+            }
+          ],
+          "photoNote": "Portrait from the firm’s December 2023 presentation to Pennsylvania SERS.",
+          "sectorDetail": [
+            "Credit",
+            "Special situations"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Technology",
+        "Industrials",
+        "Consumer",
+        "Credit"
+      ]
+    },
+    {
+      "id": "leonard-green",
+      "name": "Leonard Green & Partners",
+      "website": "https://www.leonardgreen.com/",
+      "headquarters": "Los Angeles, CA",
+      "aumBillions": 85,
+      "aumDisplay": "~$85B",
+      "aumAsOf": "December 31, 2025",
+      "aumBasis": "Firm-reported assets under management.",
+      "aumSource": {
+        "title": "LGP — About",
+        "url": "https://www.leonardgreen.com/about-lgp/"
+      },
+      "sectors": [
+        "Consumer & retail",
+        "Healthcare",
+        "Business services",
+        "Transport & logistics",
+        "Industrials"
+      ],
+      "description": "Private equity investor backing established businesses across service sectors, distribution and industrials.",
+      "scopeNote": "Includes large buyouts and the Jade middle-market strategy; total AUM is firmwide.",
+      "coverageNote": "Full public team page and available biographies checked. Includes disclosed GSB MBA graduates; excludes non-GSB Stanford degrees.",
+      "people": [
+        {
+          "id": "leonard-green--kara-hollis",
+          "name": "Kara Hollis",
+          "title": "Principal",
+          "location": "Los Angeles, CA",
+          "education": "MBA, Stanford GSB; JD, Stanford; AB, Sociology and Economics, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Multi-sector"
+          ],
+          "background": "Joined LGP in 2017 after Goldman Sachs investment banking. Holds both Stanford MBA and law degrees and is a member of the California Bar.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.leonardgreen.com/wp-content/uploads/2022/09/Kara-Hollis-500x466.jpg",
+          "photoSource": {
+            "title": "Official team portrait",
+            "url": "https://www.leonardgreen.com/team/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.leonardgreen.com/team/"
+            }
+          ],
+          "sectorDetail": [
+            "Private equity"
+          ]
+        },
+        {
+          "id": "leonard-green--sophia-vargas",
+          "name": "Sophia Vargas",
+          "title": "Associate",
+          "location": "Los Angeles, CA",
+          "education": "MBA, Stanford GSB; AB, Anthropology, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Multi-sector"
+          ],
+          "background": "Rejoined LGP in 2026 after first joining in 2022. Previously worked in Goldman Sachs’ Latin America investment banking group in New York.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.leonardgreen.com/wp-content/uploads/2026/07/Vargas-Sophia-RET.jpg",
+          "photoSource": {
+            "title": "Official team portrait",
+            "url": "https://www.leonardgreen.com/team/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.leonardgreen.com/team/"
+            }
+          ],
+          "sectorDetail": [
+            "Private equity"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Consumer services",
+        "Healthcare",
+        "Business services",
+        "Distribution",
+        "Industrials"
+      ]
+    },
+    {
+      "id": "hig-capital",
+      "name": "H.I.G. Capital",
+      "website": "https://hig.com/",
+      "headquarters": "Miami, FL",
+      "aumBillions": 72.329598943,
+      "aumDisplay": "$72.3B",
+      "aumAsOf": "Form ADV filed March 31, 2026",
+      "aumBasis": "Regulatory AUM reported by H.I.G. Capital, LLC (CRD 160711), across strategies; not a PE-only measure. Website separately markets $75B based on total capital raised by H.I.G. and affiliates.",
+      "aumSource": {
+        "title": "SEC Form ADV — H.I.G. Capital, LLC",
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/160711/PDF/160711.pdf"
+      },
+      "sectors": [
+        "Business services",
+        "Industrials",
+        "Healthcare",
+        "Technology",
+        "Consumer & retail"
+      ],
+      "description": "Global middle-market alternative investment platform with dedicated private equity, credit, infrastructure and real estate strategies.",
+      "scopeNote": "Includes larger middle-market buyouts alongside lower-middle-market and non-PE strategies. Regulatory adviser AUM is not identical in scope to consolidated firm AUM.",
+      "coverageNote": "Public team directory, official biographies and public professional profiles checked. Coverage is a verified subset, particularly because junior-staff biographies are limited. Thiago Miskulin excluded: live LinkedIn now lists BTG Pactual, while search caches retain H.I.G.",
+      "people": [
+        {
+          "id": "hig-capital--geoff-lieberthal",
+          "name": "Geoff Lieberthal",
+          "title": "Managing Director, H.I.G. Advantage",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BA, Engineering Sciences, Dartmouth",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare",
+            "Technology"
+          ],
+          "background": "Leads healthcare investments across provider services, payor services and technology. Previously invested at Two Sigma, Lee Equity, TPG and Bain Capital; began at Bain & Company. Vice Chairman of the Healthcare Private Equity Association.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://hig.com/wp-content/uploads/2024/02/Geoff_Lieberthal_Masthead.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://hig.com/team/geoff-lieberthal/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://hig.com/team/geoff-lieberthal/"
+            }
+          ],
+          "sectorDetail": [
+            "Healthcare",
+            "Healthcare technology"
+          ]
+        },
+        {
+          "id": "hig-capital--aaron-tolson",
+          "name": "Aaron Tolson",
+          "title": "Managing Director, Middle Market Fund",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; undergraduate degree, West Point",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Media & communications"
+          ],
+          "background": "Focuses on technology, media and telecom investments. Previously worked at Summit Partners and American Securities, founded a mobile enterprise software company and served as an Army armor officer.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Aaron-Tolson_masthead.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://hig.com/team/aaron-tolson/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://hig.com/team/aaron-tolson/"
+            }
+          ],
+          "sectorDetail": [
+            "Technology",
+            "Media",
+            "Telecommunications"
+          ]
+        },
+        {
+          "id": "hig-capital--jonathan-contos",
+          "name": "Jonathan Contos",
+          "title": "Managing Director",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; undergraduate degree, Economics, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Multi-sector"
+          ],
+          "background": "Works across sourcing, financing and portfolio growth. Previously a Principal at American Infrastructure Funds, a private equity associate at TPG and an investment banking analyst at Morgan Stanley.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Jonathan-Contos_full.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://hig.com/team/jonathan-contos/"
+          },
+          "linkedin": "https://www.linkedin.com/in/jonathan-contos-8147a8a/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://hig.com/team/jonathan-contos/"
+            }
+          ],
+          "sectorDetail": [
+            "Private equity"
+          ]
+        },
+        {
+          "id": "hig-capital--irene-zou",
+          "name": "Irene Zou",
+          "title": "Principal, Advantage Fund",
+          "location": "New York, NY",
+          "education": "MBA, Stanford GSB; BA, University of California, Berkeley",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Business services",
+            "Industrials",
+            "Consumer & retail",
+            "Healthcare"
+          ],
+          "background": "Brings private equity and M&A experience across business services, industrials, consumer and healthcare. Previously a Principal at Apax Partners after starting her career at McKinsey.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://hig.com/wp-content/uploads/2026/08/Irene-Zou-Masthead-2340-.png",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://hig.com/team/irene-zou/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://hig.com/team/irene-zou/"
+            }
+          ],
+          "sectorDetail": [
+            "Business services",
+            "Industrials",
+            "Consumer",
+            "Healthcare"
+          ]
+        },
+        {
+          "id": "hig-capital--colin-stalnecker",
+          "name": "Colin Stalnecker",
+          "title": "Principal, Infrastructure",
+          "location": "New York, NY",
+          "education": "MBA, Stanford GSB; undergraduate degree, Yale",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Real assets"
+          ],
+          "background": "An infrastructure investment professional with earlier experience at Prospect Partners and Bank of America Merrill Lynch. His transaction experience spans business services, technology, consumer and industrial businesses.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Colin-Stalnecker_full.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://hig.com/team/colin-stalnecker/"
+          },
+          "linkedin": "https://www.linkedin.com/in/colin-stalnecker-48626839",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://hig.com/team/colin-stalnecker/"
+            }
+          ],
+          "sectorDetail": [
+            "Infrastructure"
+          ]
+        },
+        {
+          "id": "hig-capital--javier-casillas",
+          "name": "Javier Casillas",
+          "title": "Chief Investment Officer, H.I.G. WhiteHorse",
+          "location": "Miami, FL",
+          "education": "MBA, Stanford GSB; BA, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Credit & special situations"
+          ],
+          "background": "Joined H.I.G. in 2006 and leads WhiteHorse investing. Previously worked at ING Americas and JPMorgan; his lending experience includes healthcare, business services and specialty finance.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://hig.com/wp-content/uploads/2022/08/Javier-Casillas_full.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://hig.com/team/javier-casillas/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://hig.com/team/javier-casillas/"
+            }
+          ],
+          "sectorDetail": [
+            "Private credit",
+            "Direct lending"
+          ]
+        },
+        {
+          "id": "hig-capital--lucy-zhang",
+          "name": "Lucy Zhang",
+          "title": "Vice President, Infrastructure",
+          "location": "New York, NY",
+          "education": "MBA, Stanford GSB; BA, Economics, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Real assets"
+          ],
+          "background": "Works in H.I.G. Infrastructure. Previously invested with Carlyle’s long-duration private equity strategy.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://cdn.ymaws.com/spifstanford.site-ym.com/resource/resmgr/leadership/council/lucyzhang.jpg",
+          "photoSource": {
+            "title": "Published professional portrait",
+            "url": "https://spifstanford.org/page/bioLucyZhang"
+          },
+          "linkedin": "https://www.linkedin.com/in/lucyszhang",
+          "sources": [
+            {
+              "title": "Stanford Professionals in Investing & Finance biography",
+              "url": "https://spifstanford.org/page/bioLucyZhang"
+            },
+            {
+              "title": "Public LinkedIn profile",
+              "url": "https://www.linkedin.com/in/lucyszhang"
+            }
+          ],
+          "sectorDetail": [
+            "Infrastructure"
+          ]
+        },
+        {
+          "id": "hig-capital--alice-huang",
+          "name": "Alice Huang",
+          "title": "Investment professional",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford Graduate School of Business (Arjay Miller Scholar)",
+          "degree": "MBA",
+          "gradYear": 2023,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "background": "Her public profile lists H.I.G. Capital and a 2023 Stanford MBA with Arjay Miller honors. Earlier public deal announcements identify her on Stellex investment teams for Custom Made Meals and Country Fresh.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://images.jifo.co/42115922_1652736951183.jpg",
+          "photoSource": {
+            "title": "Stanford GSB 2022 Student Voices campaign — portrait by Elena Zhukova",
+            "url": "https://www.gsb.stanford.edu/experience/news-history/may-learning-reflecting-celebrating-asian-community"
+          },
+          "linkedin": "https://www.linkedin.com/in/alicexhuang",
+          "sources": [
+            {
+              "title": "Public LinkedIn — current H.I.G. affiliation, education and previous deal experience",
+              "url": "https://www.linkedin.com/in/alicexhuang"
+            },
+            {
+              "title": "Stanford GSB diploma awards — Arjay Miller Scholars",
+              "url": "https://www.gsb.stanford.edu/experience/about/school-profile/student-awards"
+            }
+          ],
+          "sectorNote": "Consumer and food sectors reflect prior Stellex deals; current H.I.G. mandate is not publicly specified.",
+          "relationshipNote": "H.I.G. affiliation is disclosed in the public LinkedIn profile; formal title is not visible in the public profile view.",
+          "sectorDetail": [
+            "Consumer",
+            "Food and beverage"
+          ]
+        }
+      ],
+      "marketedAum": {
+        "title": "$75B firm-marketed AUM; footnote defines this using capital raised",
+        "url": "https://hig.com/"
+      },
+      "sectorDetail": [
+        "Business services",
+        "Industrials",
+        "Healthcare",
+        "Technology",
+        "Consumer"
+      ]
+    },
+    {
+      "id": "new-mountain",
+      "name": "New Mountain Capital",
+      "website": "https://www.newmountaincapital.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 60,
+      "aumDisplay": "~$60B",
+      "aumAsOf": "June 30, 2025, pro forma for October 1, 2025 commitments",
+      "aumBasis": "Asset valuations plus remaining commitments and undrawn capital; pro forma for non-control Fund II commitments as of October 1, 2025.",
+      "aumSource": {
+        "title": "New Mountain Capital — AUM and methodology footnote",
+        "url": "https://www.newmountaincapital.com/"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology",
+        "Business services",
+        "Financial services",
+        "Industrials"
+      ],
+      "description": "Business-building investment firm targeting defensive growth industries across PE, credit and net lease.",
+      "scopeNote": "Firmwide AUM includes credit and net lease, alongside control and non-control PE.",
+      "coverageNote": "Official public biographies and targeted GSB searches checked. Not a complete census of employees whose education is not publicly disclosed.",
+      "people": [
+        {
+          "id": "new-mountain--peter-masucci",
+          "name": "Peter Masucci",
+          "title": "Managing Director, PE Leadership & Co-Head of Atlas",
+          "location": "New York, NY",
+          "education": "MBA, Stanford GSB; BA, Finance, University of Iowa",
+          "degree": "MBA",
+          "gradYear": 2004,
+          "sectors": [
+            "Technology",
+            "Financial services"
+          ],
+          "background": "Joined in 2004 after KKR and Goldman Sachs. Co-leads Atlas and serves on the PE Leadership Committee, with board roles across information, data and financial-services businesses.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.3eco.com/wp-content/uploads/2024/05/Pete-Masucci-3E-200x250-1-e1716321124526.png?v=1.0.114",
+          "photoSource": {
+            "title": "3E board portrait",
+            "url": "https://www.3eco.com/leadership/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.newmountaincapital.com/team/peter-masucci/"
+            },
+            {
+              "title": "3E board biography and MBA year",
+              "url": "https://www.3eco.com/leadership/"
+            }
+          ],
+          "sectorNote": "Sectors reflect disclosed portfolio and board experience.",
+          "sectorDetail": [
+            "Private equity",
+            "Information services",
+            "Financial services"
+          ]
+        },
+        {
+          "id": "new-mountain--ray-thaler",
+          "name": "Ray Thaler",
+          "title": "Director, Operating Partner",
+          "location": "Atlanta, GA",
+          "education": "MBA, Stanford GSB; BS, Aerospace Engineering, Auburn",
+          "degree": "MBA",
+          "gradYear": 2013,
+          "sectors": [
+            "Healthcare",
+            "Portfolio operations"
+          ],
+          "background": "Joined New Mountain in 2023. Previously led strategy and M&A at Cloudmed, held roles at Cotiviti, Opendoor and Bain, and served as an F-22 pilot in the U.S. Air Force.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://static.equilar.com/prod/40520000/40520264_3101997_largeCircle.png",
+          "photoSource": {
+            "title": "Equilar ExecAtlas — Ray Thaler, New Mountain Capital portrait",
+            "url": "https://people.equilar.com/bio/person/ray-thaler-new-mountain-capital-llc/39750146"
+          },
+          "linkedin": "https://www.linkedin.com/in/raythaler",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.newmountaincapital.com/team/thaler/"
+            },
+            {
+              "title": "Public LinkedIn location and education dates",
+              "url": "https://www.linkedin.com/in/raythaler"
+            }
+          ],
+          "sectorNote": "Healthcare reflects prior operating experience; current mandate not specified in biography.",
+          "sectorDetail": [
+            "Healthcare",
+            "Portfolio operations"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Healthcare",
+        "Technology",
+        "Business services",
+        "Financial services",
+        "Industrials"
+      ]
+    },
+    {
+      "id": "genstar",
+      "name": "Genstar Capital",
+      "website": "https://www.gencap.com/",
+      "headquarters": "San Francisco, CA",
+      "aumBillions": 51,
+      "aumDisplay": "~$51B",
+      "aumAsOf": "Undated firm website, reviewed October 7, 2026",
+      "aumBasis": "Firm-reported assets under management; approximate.",
+      "aumSource": {
+        "title": "Genstar — About",
+        "url": "https://www.gencap.com/about/"
+      },
+      "sectors": [
+        "Financial services",
+        "Healthcare",
+        "Industrials",
+        "Technology"
+      ],
+      "description": "Sector-focused middle-market private equity investor partnering with management teams and operating advisers.",
+      "scopeNote": "Broad middle-market platform; individual investments can extend beyond UMM.",
+      "coverageNote": "Firm press releases, current portfolio deal-team listings and public profiles checked. Public website lacks a full current biography roster. Titles may rely on older official announcements paired with current affiliation evidence. Former Genstar investor David Golde now lists Proteir Equity Partners and is excluded, despite historical portfolio pages retaining his name. Rob Clark is excluded following his move to Bear Creek Partners.",
+      "people": [
+        {
+          "id": "genstar--rob-rutledge",
+          "name": "Rob Rutledge",
+          "title": "Managing Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BComm, Queen’s University",
+          "degree": "MBA",
+          "gradYear": 2007,
+          "sectors": [
+            "Industrials"
+          ],
+          "background": "First joined Genstar in 2003 and returned after his MBA in 2007. Previously worked at Salomon Smith Barney; his investing experience includes industrial technology and packaging. ",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://static.equilar.com/prod/42403000/42403174_3481896_largeCircle.png",
+          "photoSource": {
+            "title": "Equilar ExecAtlas — Rob S. Rutledge, Genstar Capital portrait",
+            "url": "https://people.equilar.com/bio/person/rob-rutledge-genstar-capital/28737743"
+          },
+          "linkedin": "https://www.linkedin.com/in/rob-rutledge-5bb7092",
+          "sources": [
+            {
+              "title": "Official education and career biography",
+              "url": "https://www.gencap.com/genstar-capital-announces-promotions-to-managing-director-and-principal/"
+            },
+            {
+              "title": "Current portfolio deal teams",
+              "url": "https://www.gencap.com/companies/"
+            },
+            {
+              "title": "Safe Fleet acquisition — Managing Partner title",
+              "url": "https://www.safefleet.net/wp-content/uploads/CT_Clarience-Technologies-Acquires-Safe-Fleet.pdf"
+            }
+          ],
+          "sectorDetail": [
+            "Industrials"
+          ]
+        },
+        {
+          "id": "genstar--eli-weiss",
+          "name": "Eli Weiss",
+          "title": "Managing Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BA, Yale",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Healthcare"
+          ],
+          "background": "Joined Genstar in 2008 after Hellman & Friedman and Greenhill. Invests in software businesses, with portfolio experience including PDI Technologies and ConnectiveRx.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://pditechnologies.com/wp-content/uploads/2022/10/img-eli-weiss-new.png",
+          "photoSource": {
+            "title": "Published professional portrait",
+            "url": "https://pditechnologies.com/our-story/board-of-directors/eli-weiss/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Portfolio-company board biography",
+              "url": "https://pditechnologies.com/our-story/board-of-directors/eli-weiss/"
+            },
+            {
+              "title": "Current portfolio deal teams",
+              "url": "https://www.gencap.com/companies/"
+            },
+            {
+              "title": "ConnectiveRx company announcement — Managing Partner title",
+              "url": "https://www.prnewswire.com/news-releases/harry-totonis-returns-to-connectiverx-as-ceo-301729574.html"
+            },
+            {
+              "title": "8am official announcement — current role (May 2026)",
+              "url": "https://www.8am.com/press-releases/8am-announces-strategic-leadership-transition/"
+            }
+          ],
+          "sectorDetail": [
+            "Software",
+            "Healthcare technology"
+          ]
+        },
+        {
+          "id": "genstar--katie-solomon",
+          "name": "Katie Solomon",
+          "title": "Managing Director, Talent Management",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BA and MA, Stanford",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations"
+          ],
+          "background": "Leads talent work at Genstar. Earlier roles covered human capital and investor relations at Vector Capital, executive search at Russell Reynolds, and consulting at Bain.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.gojgo.org/images/db/5d41c994eee5234f5703ebce_Katie_Solomon_Photo_(cropped)_Jan_18_(002).jpg",
+          "photoSource": {
+            "title": "Conference speaker portrait",
+            "url": "https://www.gojgo.org/inc_speakers.php?speaker=1937"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Stanford Investor Summit 2026 — role",
+              "url": "https://www.gsb.stanford.edu/events/investor-summit-2026"
+            },
+            {
+              "title": "Conference biography — education and career",
+              "url": "https://www.gojgo.org/inc_speakers.php?speaker=1937"
+            }
+          ],
+          "sectorDetail": [
+            "Talent management",
+            "Portfolio operations"
+          ]
+        },
+        {
+          "id": "genstar--darren-tan",
+          "name": "Darren Tan",
+          "title": "Investment professional",
+          "location": "San Francisco Bay Area",
+          "education": "MBA, Stanford Graduate School of Business (Arjay Miller Scholar); BA, Business Economics, UCLA",
+          "degree": "MBA",
+          "gradYear": 2024,
+          "sectors": [
+            "Healthcare",
+            "Technology"
+          ],
+          "background": "Previously invested in healthcare technology and services at New Mountain Capital and worked in M&A at Credit Suisse. He graduated summa cum laude from UCLA before completing his Stanford MBA.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.flarecapital.com/wp-content/uploads/2023/10/Darren-Tan-Headshot.jpg",
+          "photoSource": {
+            "title": "Flare Scholar biography and headshot",
+            "url": "https://www.flarecapital.com/people/darren-tan/"
+          },
+          "linkedin": "https://www.linkedin.com/in/darrenjrtan",
+          "sources": [
+            {
+              "title": "Public LinkedIn — current Genstar affiliation",
+              "url": "https://www.linkedin.com/in/darrenjrtan"
+            },
+            {
+              "title": "Stanford GSB diploma awards — Arjay Miller Scholars",
+              "url": "https://www.gsb.stanford.edu/experience/about/school-profile/student-awards"
+            },
+            {
+              "title": "Flare Scholar biography — prior career and education",
+              "url": "https://www.flarecapital.com/people/darren-tan/"
+            }
+          ],
+          "sectorNote": "Healthcare sectors reflect prior New Mountain experience; current Genstar mandate is not publicly specified.",
+          "relationshipNote": "Genstar affiliation is disclosed in the public LinkedIn profile; formal title is not visible in the public profile view.",
+          "sectorDetail": [
+            "Healthcare technology",
+            "Healthcare services"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Financial services",
+        "Healthcare",
+        "Industrials",
+        "Software"
+      ]
+    },
+    {
+      "id": "gtcr",
+      "name": "GTCR",
+      "website": "https://www.gtcr.com/",
+      "headquarters": "Chicago, IL",
+      "aumBillions": 50,
+      "aumDisplay": "~$50B",
+      "aumAsOf": "Winter 2025 firm newsletter",
+      "aumBasis": "Equity capital under management, as described by GTCR.",
+      "aumSource": {
+        "title": "GTCR Business & Consumer Services leadership newsletter",
+        "url": "https://www.gtcr.com/wp-content/uploads/2025/12/gtcr-bcs-2025-newsletter.pdf"
+      },
+      "sectors": [
+        "Business services",
+        "Consumer & retail",
+        "Financial services",
+        "Healthcare",
+        "Technology",
+        "Media & communications"
+      ],
+      "description": "Private equity investor using its Leaders Strategy to partner with executives and build companies across defined sectors.",
+      "scopeNote": "Invests across middle-market and larger buyouts; disclosed equity capital includes the broader platform.",
+      "coverageNote": "All 182 published records in the current official public team API checked. Excludes senior advisor Craig Bondy and Stanford degrees outside GSB; public staff disclosure may be incomplete.",
+      "people": [
+        {
+          "id": "gtcr--sarah-adler",
+          "name": "Sarah Adler",
+          "title": "Principal, Leaders Strategy and Portfolio Talent",
+          "location": null,
+          "education": "MBA, Stanford GSB; BA, Princeton",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations"
+          ],
+          "background": "Joined GTCR in 2026 to support executive sourcing and recruitment across the portfolio. Previously worked at Egon Zehnder, Tapestry and Bain & Company.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.gtcr.com/wp-content/uploads/2026/01/GTCR_BioPage_Team_Photos_SarahAdler.png",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.gtcr.com/team/sarah-adler/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.gtcr.com/team/sarah-adler/"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.gtcr.com/wp-json/wp/v2/team/11466"
+            }
+          ],
+          "sectorDetail": [
+            "Talent management",
+            "Portfolio operations"
+          ]
+        },
+        {
+          "id": "gtcr--alexander-bennett",
+          "name": "Alexander Bennett",
+          "title": "Vice President",
+          "location": null,
+          "education": "MBA, Stanford GSB (Arjay Miller Scholar); BA, Physics, University of Chicago",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Media & communications"
+          ],
+          "background": "Joined in 2017 and became Vice President in 2022. Previously worked at Lazard and UBS; portfolio experience includes broadband and advertising technology.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.gtcr.com/wp-content/uploads/2022/10/GTCR_BioPage_Team_Photos_AlexBennett.png",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.gtcr.com/team/alexander-bennett/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.gtcr.com/team/alexander-bennett/"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.gtcr.com/wp-json/wp/v2/team/6432"
+            }
+          ],
+          "sectorDetail": [
+            "Technology",
+            "Media",
+            "Telecommunications"
+          ]
+        },
+        {
+          "id": "gtcr--mike-steltenkamp",
+          "name": "Mike Steltenkamp",
+          "title": "Director",
+          "location": null,
+          "education": "MBA, Stanford GSB; BS and MS, Mechanical Engineering, University of Pennsylvania",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Business services",
+            "Consumer & retail"
+          ],
+          "background": "Joined in 2021 and became Director in 2024. Previously worked at Advent and BCG, and serves on the boards of Everon, PPC Flex and Senske Services.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.gtcr.com/wp-content/uploads/2021/12/GTCR_BioPage_Steltenkamp_Mike.png",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.gtcr.com/team/michael-steltenkamp/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.gtcr.com/team/michael-steltenkamp/"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.gtcr.com/wp-json/wp/v2/team/4502"
+            }
+          ],
+          "sectorDetail": [
+            "Business services",
+            "Consumer services"
+          ]
+        },
+        {
+          "id": "gtcr--david-a-donnini",
+          "name": "David A. Donnini",
+          "title": "Managing Director, Head of Business & Consumer Services",
+          "location": null,
+          "education": "MBA, Stanford GSB (Arjay Miller Scholar); BA, Economics, Yale",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Business services",
+            "Consumer & retail"
+          ],
+          "background": "Joined in 1991 after Bain & Company. Leads business-services investing, with board roles including Consumer Cellular, Everon, Senske Services and SimpliSafe.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.gtcr.com/wp-content/uploads/2020/06/3d4b9812-team_bio_md_davedonnini.png",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.gtcr.com/team/david-a-donnini/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.gtcr.com/team/david-a-donnini/"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.gtcr.com/wp-json/wp/v2/team/1622"
+            }
+          ],
+          "sectorDetail": [
+            "Business services",
+            "Consumer services"
+          ]
+        },
+        {
+          "id": "gtcr--nelson-iginla",
+          "name": "Nelson Iginla",
+          "title": "Principal",
+          "location": null,
+          "education": "MBA, Stanford GSB; BA, Political Science, University of Pennsylvania",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Media & communications"
+          ],
+          "background": "Joined in 2019 and became Principal in 2024. Previously worked at Bain Capital and BCG; serves on the boards of Avelis Holdings, Jet Support Services and Tricentis.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.gtcr.com/wp-content/uploads/2020/06/42702141-team_bio_nelsoniginla.png",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.gtcr.com/team/nelson-iginla/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.gtcr.com/team/nelson-iginla/"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.gtcr.com/wp-json/wp/v2/team/1518"
+            }
+          ],
+          "sectorDetail": [
+            "Technology",
+            "Media",
+            "Telecommunications"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Business services",
+        "Consumer services",
+        "Financial services",
+        "Healthcare",
+        "Technology",
+        "Media",
+        "Telecommunications"
+      ]
+    },
+    {
+      "id": "veritas-capital",
+      "name": "Veritas Capital",
+      "website": "https://www.veritascapital.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 50,
+      "aumDisplay": "$50B+",
+      "aumAsOf": "June 30, 2026",
+      "aumBasis": "Firmwide AUM across three strategies, including committed capital.",
+      "aumSource": {
+        "title": "Veritas — firm AUM footnote",
+        "url": "https://www.veritascapital.com/"
+      },
+      "sectors": [
+        "Technology",
+        "Government",
+        "Industrials",
+        "Healthcare",
+        "Education",
+        "Real assets"
+      ],
+      "description": "Technology-focused investor in businesses serving government and commercial customers.",
+      "scopeNote": "Includes Flagship, middle-market Vantage and Credit strategies.",
+      "coverageNote": "Full public team roster and linked biographies checked. One current GSB MBA graduate verified; undeclared education may create gaps.",
+      "people": [
+        {
+          "id": "veritas-capital--rick-cosgrove",
+          "name": "Rick Cosgrove",
+          "title": "Partner, Vantage Private Equity",
+          "location": "New York, NY",
+          "education": "MBA, Stanford GSB; BS, Finance, Georgetown",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Works on the Vantage private equity team. Previously invested at Providence Equity Partners and worked in Goldman Sachs’ technology, media and telecommunications investment banking group.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://static.equilar.com/prod/59676000/59676617_9694205_largeCircle.png",
+          "photoSource": {
+            "title": "Equilar ExecAtlas — Rick Cosgrove, Veritas Capital portrait",
+            "url": "https://people.equilar.com/bio/person/rick-cosgrove-veritas-capital/27115778"
+          },
+          "linkedin": "https://www.linkedin.com/in/rcosgrove1",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.veritascapital.com/team/rick-cosgrove/"
+            }
+          ],
+          "sectorNote": "Vantage strategy focus; biography does not specify an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology",
+            "Private equity"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Technology",
+        "Government",
+        "Defense",
+        "Healthcare",
+        "Education",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "centerbridge",
+      "name": "Centerbridge Partners",
+      "website": "https://www.centerbridge.com",
+      "headquarters": "New York, New York",
+      "aumBillions": 49,
+      "aumDisplay": "~$49B",
+      "aumAsOf": "2026-06-30",
+      "aumBasis": "Firmwide AUM across private equity, private credit and real estate; private-equity AUM separately disclosed as $16B+.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.centerbridge.com/"
+      },
+      "sectors": [
+        "Financial services",
+        "Healthcare",
+        "Industrials",
+        "Technology",
+        "Real assets"
+      ],
+      "description": "Alternative investment manager whose control private-equity strategy explicitly targets upper-middle-market buyouts.",
+      "scopeNote": "Firmwide AUM includes substantial credit and real estate assets.",
+      "coverageNote": "Official team biographies reviewed; these are publicly verified matches, not a guarantee of every employee’s education.",
+      "people": [
+        {
+          "id": "centerbridge--alissa-bonneau",
+          "name": "Alissa Bonneau",
+          "title": "Managing Director, Portfolio Operations",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA; Arjay Miller Scholar",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2021 after KKR Capstone and Bain & Company. Works with portfolio management on commercial growth, technology strategy, efficiency, M&A and organizational development.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://cdn.prod.website-files.com/685d4f8ac351c855854a7c56/68b87dfeccc1ae8d79ad22dd_Bonneau%2C%20Alissa.avif",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.centerbridge.com/our-team/alissa-bonneau"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.centerbridge.com/our-team/alissa-bonneau"
+            }
+          ],
+          "sectorDetail": [
+            "Portfolio operations",
+            "Value creation"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Financial services",
+        "Healthcare",
+        "Industrials",
+        "Technology",
+        "Real estate"
+      ]
+    },
+    {
+      "id": "platinum-equity",
+      "name": "Platinum Equity",
+      "website": "https://www.platinumequity.com/",
+      "headquarters": "Beverly Hills, CA",
+      "aumBillions": 48,
+      "aumDisplay": "~$48B",
+      "aumAsOf": "July 20, 2026 company announcement",
+      "aumBasis": "Firm-reported assets under management.",
+      "aumSource": {
+        "title": "Platinum announcement — firm AUM",
+        "url": "https://www.platinumequity.com/news/anuvu-appoints-former-hbo-executive-simon-sutton-as-chief-executive-officer/"
+      },
+      "sectors": [
+        "Industrials",
+        "Transport & logistics",
+        "Technology",
+        "Media & communications"
+      ],
+      "description": "Operational private equity investor combining acquisitions with hands-on business transformation.",
+      "scopeNote": "Includes large-cap and smaller-cap buyout funds and other strategies, not exclusively UMM.",
+      "coverageNote": "All 9 public roster pages and 89 unique biography links checked. No current GSB MBA employee verified. Matthew Louie has a Stanford undergraduate degree and Harvard MBA; former employee Kevin Adams is now at TSG. This is not proof the firm has no GSB alumni.",
+      "people": [],
+      "sectorDetail": [
+        "Manufacturing",
+        "Distribution",
+        "Transportation",
+        "Logistics",
+        "Technology",
+        "Media"
+      ]
+    },
+    {
+      "id": "francisco-partners",
+      "name": "Francisco Partners",
+      "website": "https://www.franciscopartners.com/",
+      "headquarters": "San Francisco, CA",
+      "aumBillions": 47.051371459,
+      "aumDisplay": "$47.1B",
+      "aumAsOf": "Form ADV filed March 31, 2026",
+      "aumBasis": "Regulatory AUM of Francisco Partners (CRD 160272). Predates July 2026 fund closes; website’s $75B is cumulative capital raised, not AUM.",
+      "aumSource": {
+        "title": "SEC Form ADV — Francisco Partners",
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/160272/PDF/160272.pdf"
+      },
+      "sectors": [
+        "Technology",
+        "Healthcare",
+        "Financial services"
+      ],
+      "description": "Technology-focused investor with flagship, Agility middle-market and credit strategies.",
+      "scopeNote": "Regulatory adviser AUM across the platform; flagship includes large-cap deals, while Agility specifically targets the middle market.",
+      "coverageNote": "207 official roster biography links checked, with current individual pages reviewed. Excludes emeritus/senior advisors and employees of independently owned FP Operating Executives. Former employee David Franks is excluded.",
+      "people": [
+        {
+          "id": "francisco-partners--dipanjan-dj-deb",
+          "name": "Dipanjan “DJ” Deb",
+          "title": "Co-Founder and CEO",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BS, EECS, UC Berkeley",
+          "degree": "MBA",
+          "gradYear": 1996,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Co-founded Francisco Partners in 1999. Previously worked at TPG, Robertson Stephens and McKinsey; serves on Stanford GSB’s Advisory Council and supports university and healthcare institutions.",
+          "interests": [
+            "University and healthcare philanthropy"
+          ],
+          "email": "deb@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/dipanjan-dj-deb"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/64/sm_FranciscoPartners-May2022Headshots-BIO-_0001_Francisco_Partners_-_DJ_-_Chosen_-_Bio.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/dipanjan-dj-deb"
+          },
+          "linkedin": "https://www.linkedin.com/in/dipanjan-deb-a4844a52",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/dipanjan-dj-deb"
+            },
+            {
+              "title": "Stanford GSB — MBA year",
+              "url": "https://www.gsb.stanford.edu/experience/about/leadership/advisory-council/members"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology"
+          ]
+        },
+        {
+          "id": "francisco-partners--david-golob",
+          "name": "David Golob",
+          "title": "Co-Chief Investment Officer",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB (Arjay Miller Scholar); AB, Chemistry, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2001 after roles at Tiger Management, General Atlantic, Sutter Hill and McKinsey. His disclosed board experience includes data and software businesses; he is a Cancer Research Institute trustee.",
+          "interests": [
+            "Cancer research philanthropy"
+          ],
+          "email": "golob@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/david-golob"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/837/sm_FranciscoPartners-May2022Headshots-BIO-_0043_Dave_Golob_Bio.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/david-golob"
+          },
+          "linkedin": "https://www.linkedin.com/in/david-golob-10a35/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/david-golob"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology"
+          ]
+        },
+        {
+          "id": "francisco-partners--ezra-perlman",
+          "name": "Ezra Perlman",
+          "title": "Co-President",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; AB, Applied Mathematics, Harvard",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare",
+            "Technology",
+            "Education"
+          ],
+          "background": "Joined in 2003 after Battery Ventures, Advanta and Oliver Wyman. Disclosed portfolio experience includes Merative, QGenda, bswift and Renaissance.",
+          "interests": [],
+          "email": "perlman@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/ezra-perlman"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/76/sm_Ezra_Perlman_Indiv.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/ezra-perlman"
+          },
+          "linkedin": "https://www.linkedin.com/in/ezra-perlman-16b16",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/ezra-perlman"
+            }
+          ],
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "sectorDetail": [
+            "Healthcare IT",
+            "Education technology"
+          ]
+        },
+        {
+          "id": "francisco-partners--chris-adams",
+          "name": "Chris Adams",
+          "title": "Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BS, Georgia Tech",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "background": "Joined in 2008 after American Securities and Bain & Company. Disclosed investments include AndHealth, Capsa Healthcare, GoodRx and RedSail Technologies.",
+          "interests": [],
+          "email": "adams@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/chris-adams"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/738/sm_Chris_Adams_Indiv.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/chris-adams"
+          },
+          "linkedin": "https://www.linkedin.com/in/chris-adams-92a81/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/chris-adams"
+            }
+          ],
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "sectorDetail": [
+            "Healthcare IT",
+            "Healthcare"
+          ]
+        },
+        {
+          "id": "francisco-partners--evan-daar",
+          "name": "Evan Daar",
+          "title": "Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BA, Columbia",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Real assets",
+            "Media & communications"
+          ],
+          "background": "Joined in 2011 after McKinsey. Focuses on infrastructure software, communications and security, with board experience at companies including New Relic, Perforce and SonicWall.",
+          "interests": [],
+          "email": "daar@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/evan-daar"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/798/sm_Evan-Daar-Landing-Page.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/evan-daar"
+          },
+          "linkedin": "https://www.linkedin.com/in/evan-daar-28135210/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/evan-daar"
+            },
+            {
+              "title": "Official partner promotions — sector focus",
+              "url": "https://www.franciscopartners.com/media/francisco-partners-announces-partner-promotions"
+            }
+          ],
+          "sectorDetail": [
+            "Infrastructure software",
+            "Cybersecurity",
+            "Communications"
+          ]
+        },
+        {
+          "id": "francisco-partners--ashley-evans",
+          "name": "Ashley Evans",
+          "title": "Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB (Arjay Miller Scholar); AB, Harvard; MPhil, Cambridge",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2022 after leading West Coast technology investing as a Carlyle partner. Founded the SynGAP Research Fund and has board experience across enterprise software companies.",
+          "interests": [
+            "Rare-disease research through the SynGAP Research Fund"
+          ],
+          "email": "ashley.evans@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/ashley-evans"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/2127/sm_Ashley-Evans_2---resized.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/ashley-evans"
+          },
+          "linkedin": "https://www.linkedin.com/in/ashleyevans/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/ashley-evans"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Software"
+          ]
+        },
+        {
+          "id": "francisco-partners--karl-shum",
+          "name": "Karl Shum",
+          "title": "Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BS, Mathematics, University of Chicago",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Healthcare"
+          ],
+          "background": "Joined in 2013 after roles at Sears Holdings and Credit Suisse. Current disclosed investments include BeyondTrust and RedSail Technologies.",
+          "interests": [],
+          "email": "shum@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/karlswell-shum"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/981/sm_Karl_Shum_Indiv.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/karlswell-shum"
+          },
+          "linkedin": "https://www.linkedin.com/in/karl-shum-576b9410a/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/karlswell-shum"
+            }
+          ],
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "sectorDetail": [
+            "Cybersecurity",
+            "Healthcare IT"
+          ]
+        },
+        {
+          "id": "francisco-partners--christine-wang",
+          "name": "Christine Wang",
+          "title": "Partner",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BA, Columbia",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2015 after Advent International and JPMorgan. Focuses on application software, with disclosed investments including GoTo, LastPass, Litmos and Vendavo.",
+          "interests": [],
+          "email": "christine.wang@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/christine-wang"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/1005/sm_Christine_Wang_Indiv.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/christine-wang"
+          },
+          "linkedin": "https://www.linkedin.com/in/christinewang111/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/christine-wang"
+            },
+            {
+              "title": "Official partner promotions — sector focus",
+              "url": "https://www.franciscopartners.com/media/francisco-partners-announces-partner-promotions"
+            }
+          ],
+          "sectorDetail": [
+            "Application software"
+          ]
+        },
+        {
+          "id": "francisco-partners--ravi-bhatt",
+          "name": "Ravi Bhatt",
+          "title": "Principal",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BS, University of Southern California",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2018 after Morgan Stanley. Disclosed board and investment experience includes BeyondTrust and Blancco.",
+          "interests": [],
+          "email": "ravi.bhatt@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/ravi-bhatt"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/2145/sm_Ravi-Bhatt_2---resized.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/ravi-bhatt"
+          },
+          "linkedin": "https://www.linkedin.com/in/ravijbhatt/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/ravi-bhatt"
+            }
+          ],
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "sectorDetail": [
+            "Cybersecurity",
+            "Software"
+          ]
+        },
+        {
+          "id": "francisco-partners--nate-zupan",
+          "name": "Nate Zupan",
+          "title": "Principal",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BA, Mathematics and BA, Economics, Dartmouth",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2022 after Warburg Pincus and Deutsche Bank. Serves on the boards of Elite, Paradigm, Perforce and The Weather Company.",
+          "interests": [],
+          "email": "nate.zupan@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/nate-zupan"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/2139/sm_Nate-Zupan_2---resized.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/nate-zupan"
+          },
+          "linkedin": "https://www.linkedin.com/in/nate-zupan-01604a144/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/nate-zupan"
+            }
+          ],
+          "sectorNote": "Sectors reflect disclosed portfolio-company experience, not an exclusive mandate.",
+          "sectorDetail": [
+            "Software",
+            "Data and analytics"
+          ]
+        },
+        {
+          "id": "francisco-partners--ke-li",
+          "name": "Ke Li",
+          "title": "Vice President",
+          "location": "San Francisco, CA",
+          "education": "MBA and MA, Education, Stanford; AB, Economics and Mathematics, Dartmouth",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2022 after McKinsey & Company. Invests on Francisco Partners’ private equity team.",
+          "interests": [],
+          "email": "ke.li@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/ke-li"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/903/sm_Ke_Li_Team.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/ke-li"
+          },
+          "linkedin": "https://www.linkedin.com/in/-ke-li/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/ke-li"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology"
+          ]
+        },
+        {
+          "id": "francisco-partners--darryl-tan",
+          "name": "Darryl Tan",
+          "title": "Vice President",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BS, Financial Actuarial Mathematics, UCLA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2020 after working at Credit Suisse. Invests on the firm’s private equity team.",
+          "interests": [],
+          "email": "Darryl.Tan@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/darryl-tan"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/2656/sm_Darryl-Tan-Landing-Page.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/darryl-tan"
+          },
+          "linkedin": "https://www.linkedin.com/in/darryltan/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/darryl-tan"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology"
+          ]
+        },
+        {
+          "id": "francisco-partners--wyeth-coulter",
+          "name": "Wyeth Coulter",
+          "title": "Post-MBA Associate",
+          "location": "San Francisco, CA",
+          "education": "MBA and BS, Stanford",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2026 after experience at Point72 Ventures and K5 Global. Works on the private equity investment team.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/3027/sm_Wyeth-Coulter-Bio-Page.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/wyeth-coulter"
+          },
+          "linkedin": "https://www.linkedin.com/in/wyeth-coulter-50a087168/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/wyeth-coulter"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology"
+          ]
+        },
+        {
+          "id": "francisco-partners--leonardo-sanelli",
+          "name": "Leonardo Sanelli",
+          "title": "Post-MBA Associate",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB; BS, Ca’ Foscari University of Venice; MS, London Business School",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology"
+          ],
+          "background": "Joined in 2024 after McKinsey & Company. Works on Francisco Partners’ private equity investment team.",
+          "interests": [],
+          "email": "Leonardo.Sanelli@franciscopartners.com",
+          "emailSource": {
+            "title": "Official biography — public Email link",
+            "url": "https://www.franciscopartners.com/team/leonardo-sanelli"
+          },
+          "photoUrl": "https://cms.franciscopartners.com/system/uploads/fae/image/asset/2618/sm_Leonardo-Sanelli-Landing-Page.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.franciscopartners.com/team/leonardo-sanelli"
+          },
+          "linkedin": "https://www.linkedin.com/in/leonardosanelli/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.franciscopartners.com/team/leonardo-sanelli"
+            }
+          ],
+          "sectorNote": "Firm-level technology focus; biography does not state an exclusive personal sector mandate.",
+          "sectorDetail": [
+            "Technology"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Enterprise software",
+        "Technology",
+        "Healthcare IT",
+        "Financial technology"
+      ]
+    },
+    {
+      "id": "roark",
+      "name": "Roark Capital",
+      "website": "https://www.roarkcapital.com",
+      "headquarters": "Atlanta, Georgia",
+      "aumBillions": 41,
+      "aumDisplay": "$41B",
+      "aumAsOf": "Not stated on current overview",
+      "aumBasis": "Firm-reported AUM.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.roarkcapital.com/about"
+      },
+      "sectors": [
+        "Consumer & retail",
+        "Business services",
+        "Education"
+      ],
+      "description": "Private-equity firm specializing in consumer and business services with franchise and franchise-like models.",
+      "scopeNote": "Large franchise platforms can extend beyond traditional UMM deal sizes.",
+      "coverageNote": "Full public team page searched for Stanford; undergraduate-only matches excluded.",
+      "people": [
+        {
+          "id": "roark--sarah-spiegel",
+          "name": "Sarah Spiegel",
+          "title": "Managing Director",
+          "location": "Atlanta",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail",
+            "Portfolio operations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2019 and serves on Roark’s Investment Committee. Former CEO of Coffee & Bagel Brands, Bain Capital portfolio executive and LEGO strategy leader; her board work includes GoTo Foods, CKE and Nothing Bundt Cakes.",
+          "interests": [],
+          "email": "sspiegel@roarkcapital.com",
+          "emailSource": {
+            "title": "Published professional email",
+            "url": "https://www.roarkcapital.com/ourteam"
+          },
+          "photoUrl": "https://www.roarkcapital.com/images/team2/Sarah_Spiegel.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.roarkcapital.com/ourteam"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.roarkcapital.com/ourteam"
+            }
+          ],
+          "sectorDetail": [
+            "Restaurants",
+            "Consumer",
+            "Portfolio operations"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Consumer services",
+        "Business services",
+        "Franchising",
+        "Restaurants",
+        "Education"
+      ]
+    },
+    {
+      "id": "l-catterton",
+      "name": "L Catterton",
+      "website": "https://www.lcatterton.com",
+      "headquarters": "Greenwich, Connecticut",
+      "aumBillions": 40,
+      "aumDisplay": "~$40B",
+      "aumAsOf": "Not stated on current overview",
+      "aumBasis": "Firm-reported equity capital under management; global platform across buyout, middle-market and growth strategies.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.lcatterton.com/Aboutus.html"
+      },
+      "sectors": [
+        "Consumer & retail",
+        "Healthcare"
+      ],
+      "description": "Consumer specialist with global buyout, middle-market and growth funds.",
+      "scopeNote": "Global US-headquartered platform; flagship and international strategies extend beyond a pure US UMM universe.",
+      "coverageNote": "Official team data and current roster checked. Expired team records, non-GSB degrees and staff of separate portfolio-services entities excluded.",
+      "people": [
+        {
+          "id": "l-catterton--farah-khan",
+          "name": "Farah Khan",
+          "title": "Managing Partner",
+          "location": "Americas (individual office not stated)",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Leads Latin America investing after earlier North American growth and buyout work. Previously invested at Sandler Capital and Apax Partners and worked in Goldman Sachs investment banking.",
+          "interests": [],
+          "email": "farah.khan@lcatterton.com",
+          "emailSource": {
+            "title": "Official public team data",
+            "url": "https://www.lcatterton.com/js/people.json"
+          },
+          "photoUrl": "https://www.lcatterton.com/images-people/Khan-Farah.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.lcatterton.com/People.html#!/bio/Khan-Farah"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.lcatterton.com/People.html#!/bio/Khan-Farah"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.lcatterton.com/js/people.json"
+            }
+          ],
+          "sectorDetail": [
+            "Consumer",
+            "Latin America",
+            "Growth equity",
+            "Buyouts"
+          ]
+        },
+        {
+          "id": "l-catterton--carlos-schechtmann",
+          "name": "Carlos Schechtmann",
+          "title": "Vice President",
+          "location": "Americas (individual office not stated)",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 2020,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Consumer investor previously with Carlyle’s US Buyout Fund and GRAM’s founding team. Began his career in Morgan Stanley’s consumer and retail investment banking group.",
+          "interests": [],
+          "email": "carlos.schechtmann@lcatterton.com",
+          "emailSource": {
+            "title": "Official public team data",
+            "url": "https://www.lcatterton.com/js/people.json"
+          },
+          "photoUrl": "https://www.lcatterton.com/images-people/Schechtmann-Carlos.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.lcatterton.com/People.html#!/bio/Schechtmann-Carlos"
+          },
+          "linkedin": "https://www.linkedin.com/in/carlosschechtmann",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.lcatterton.com/People.html#!/bio/Schechtmann-Carlos"
+            },
+            {
+              "title": "Official public team data",
+              "url": "https://www.lcatterton.com/js/people.json"
+            },
+            {
+              "title": "Public LinkedIn education",
+              "url": "https://www.linkedin.com/in/carlosschechtmann"
+            }
+          ],
+          "sectorDetail": [
+            "Consumer",
+            "Retail",
+            "Buyouts"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Consumer",
+        "Retail",
+        "Food & beverage",
+        "Health & wellness"
+      ]
+    },
+    {
+      "id": "berkshire-partners",
+      "name": "Berkshire Partners",
+      "website": "https://berkshirepartners.com",
+      "headquarters": "Boston, Massachusetts",
+      "aumBillions": 29.003502903,
+      "aumDisplay": "$29.0B",
+      "aumAsOf": "FY2025; filing 2026-03-27",
+      "aumBasis": "Regulatory AUM of Berkshire Partners LLC (CRD 160675), via FormDs. Excludes separately registered affiliate Stockbridge; not consolidated private-plus-public firmwide AUM.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/berkshire-partners-llc?filing=2066808"
+      },
+      "sectors": [
+        "Business services",
+        "Industrials",
+        "Technology",
+        "Healthcare",
+        "Consumer & retail"
+      ],
+      "description": "Middle-market investor helping growing companies build scale; the wider platform also includes Stockbridge public equity.",
+      "scopeNote": "Rank uses the private-equity adviser’s regulatory AUM, excluding Stockbridge.",
+      "coverageNote": "All current public team biographies scanned. Retired Managing Director Jon Meyer and independent Advisory Director Gideon Argov excluded. Kevin Callaghan’s current Senior Advisor role and Saad Hasan’s Stockbridge role are labeled.",
+      "people": [
+        {
+          "id": "berkshire-partners--candice-corvetti",
+          "name": "Candice Corvetti",
+          "title": "Managing Director",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Business services"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Services investor involved in AHEAD, Parts Town, Thrive and United Flow Technologies. Joined in 2014 after Madison Dearborn Partners and J.P. Morgan.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Corvetti-Candice.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/candice-corvetti/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/candice-corvetti/"
+            }
+          ],
+          "sectorDetail": [
+            "Services"
+          ]
+        },
+        {
+          "id": "berkshire-partners--jon-karp",
+          "name": "Jon Karp",
+          "title": "Vice President",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Real assets"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Focuses on technology and digital infrastructure. Originally joined in 2018 and returned in 2025 after a director role at KOKO Networks; works with Point Broadband.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2025/09/Jon-Karp.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/jon-karp/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/jon-karp/"
+            }
+          ],
+          "sectorDetail": [
+            "Technology",
+            "Digital infrastructure"
+          ]
+        },
+        {
+          "id": "berkshire-partners--ladd-hamrick",
+          "name": "Ladd Hamrick",
+          "title": "Principal",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 2020,
+          "sectors": [
+            "Industrials"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Industrials investor involved with Consolidated Precision Products, National Carwash Solutions, RJW Logistics and Triumph. Originally joined in 2015 and returned after his Stanford MBA in 2020; previously a J.P. Morgan analyst.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://live-berkshire-partners.pantheonsite.io/wp-content/uploads/2020/11/Hamrick-Ladd.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/ladd-hamrick/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/ladd-hamrick/"
+            }
+          ],
+          "sectorDetail": [
+            "Industrials"
+          ]
+        },
+        {
+          "id": "berkshire-partners--ross-jones",
+          "name": "Ross Jones",
+          "title": "Managing Director",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Multi-sector"
+          ],
+          "sectorNote": "Current remit is firm strategic initiatives; biography does not specify one sector.",
+          "background": "Longtime private-equity investor involved in firm strategic initiatives. Joined in 1993 after Bain and an early-stage merchant bank; previously chaired the Governance & Policy and Private Equity committees.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2023/06/Jones-Ross-scaled-e1686931224443.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/ross-jones/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/ross-jones/"
+            }
+          ],
+          "sectorDetail": [
+            "Private equity leadership"
+          ]
+        },
+        {
+          "id": "berkshire-partners--saad-hasan",
+          "name": "Saad Hasan",
+          "title": "Managing Director, Stockbridge",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Public equity"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Public-equity investor with the Stockbridge team. Joined in 2011 after private-equity work at Hellman & Friedman and consulting at Bain & Company.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Hasan-Saad.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/saad-hasan/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/saad-hasan/"
+            }
+          ],
+          "relationshipNote": "Member of the firm’s Stockbridge public-equity team, not the private-equity deal team.",
+          "sectorDetail": [
+            "Public equity"
+          ]
+        },
+        {
+          "id": "berkshire-partners--ted-rainaud",
+          "name": "Ted Rainaud",
+          "title": "Managing Director",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Industrials"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Industrials investor involved with FoodChain ID, Harvey Performance Company and Triumph. First joined in 2010 and returned in 2014 after business school; previously worked at Bain & Company.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2024/07/Rainaud-Ted_WEB.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/ted-rainaud/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/ted-rainaud/"
+            }
+          ],
+          "sectorDetail": [
+            "Industrials"
+          ]
+        },
+        {
+          "id": "berkshire-partners--kevin-callaghan",
+          "name": "Kevin Callaghan",
+          "title": "Senior Advisor",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Multi-sector"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Senior advisor on the Private Equity team, with prior investment involvement across consumer, services and industrial businesses. Joined in 1987 after Lehman Brothers.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://berkshirepartners.com/wp-content/uploads/2020/11/Callaghan-Kevin_WEB.png",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://berkshirepartners.com/team/kevin-callaghan/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://berkshirepartners.com/team/kevin-callaghan/"
+            }
+          ],
+          "relationshipNote": "Current Senior Advisor listed by the firm; not represented as an active full-time deal-team employee.",
+          "sectorDetail": [
+            "Private equity advisory"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Services",
+        "Industrials",
+        "Technology",
+        "Healthcare",
+        "Consumer"
+      ]
+    },
+    {
+      "id": "american-securities",
+      "name": "American Securities",
+      "website": "https://www.american-securities.com",
+      "headquarters": "New York, New York",
+      "aumBillions": 23,
+      "aumDisplay": "$23B+",
+      "aumAsOf": "Not stated on current overview",
+      "aumBasis": "Firm-reported assets under management.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.american-securities.com/our-firm/our-focus/"
+      },
+      "sectors": [
+        "Industrials",
+        "Business services",
+        "Building products",
+        "Energy & sustainability"
+      ],
+      "description": "Private-equity firm partnering with industrial and services businesses through operational improvement and long-term growth.",
+      "scopeNote": "Invests across middle-market and larger businesses.",
+      "coverageNote": "Current team biographies scanned. External Advisory Board and Executive Council members excluded from employee results.",
+      "people": [
+        {
+          "id": "american-securities--michael-fisch",
+          "name": "Michael Fisch",
+          "title": "Founder & CEO",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Multi-sector"
+          ],
+          "sectorNote": "Firmwide leadership; a single personal investment-sector mandate is not stated.",
+          "background": "Founded American Securities in 1994 and leads the firm and its Investment Committee. Previously worked in private equity, Bain’s Paris office and Goldman Sachs M&A; serves on several educational and nonprofit boards.",
+          "interests": [
+            "Ironman triathlons",
+            "Philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/127/xs_michael-fisch-american-securities-founder-ceo-headshot.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.american-securities.com/team/michael-fisch/"
+          },
+          "linkedin": "https://www.linkedin.com/in/michaelfisch-americansecurities/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.american-securities.com/team/michael-fisch/"
+            }
+          ],
+          "sectorDetail": [
+            "Private equity leadership"
+          ]
+        },
+        {
+          "id": "american-securities--kevin-zhou",
+          "name": "Kevin Zhou",
+          "title": "Principal",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail",
+            "Business services"
+          ],
+          "sectorNote": "Sector labels reflect the biography’s named portfolio companies and previous investment experience.",
+          "background": "Joined in 2020 after Long Arc Capital and Och-Ziff, with earlier Goldman Sachs experience. A director of Conair and RealManage; prior work spanned energy, technology, financial and business services.",
+          "interests": [],
+          "email": "kzhou@american-securities.com",
+          "emailSource": {
+            "title": "Published professional email",
+            "url": "https://www.american-securities.com/team/kevin-zhou/"
+          },
+          "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/528/xs_21_Kevin_Zhou_1507.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.american-securities.com/team/kevin-zhou/"
+          },
+          "linkedin": "https://www.linkedin.com/in/kevinxzhou2013/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.american-securities.com/team/kevin-zhou/"
+            }
+          ],
+          "sectorDetail": [
+            "Consumer products",
+            "Business services"
+          ]
+        },
+        {
+          "id": "american-securities--ross-andrese",
+          "name": "Ross Andrese",
+          "title": "Partner, Resources Group and Strategy Team",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2011 after McKinsey. Helps evaluate new investments and execute value-creation plans, with experience in strategic planning, commercial improvement, margins, M&A diligence and integration.",
+          "interests": [],
+          "email": "randrese@american-securities.com",
+          "emailSource": {
+            "title": "Published professional email",
+            "url": "https://www.american-securities.com/team/ross-andrese/"
+          },
+          "photoUrl": "https://www.american-securities.com/system/uploads/fae/image/asset/578/xs_Ross_Andrese-3.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.american-securities.com/team/ross-andrese/"
+          },
+          "linkedin": "https://www.linkedin.com/in/ross-andrese-002a0415",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.american-securities.com/team/ross-andrese/"
+            }
+          ],
+          "sectorDetail": [
+            "Portfolio operations",
+            "Value creation"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Industrials",
+        "Business services",
+        "Building products",
+        "Power & energy",
+        "Specialty materials"
+      ]
+    },
+    {
+      "id": "charlesbank",
+      "name": "Charlesbank Capital Partners",
+      "website": "https://www.charlesbank.com",
+      "headquarters": "Boston, Massachusetts / New York, New York",
+      "aumBillions": 21.5,
+      "aumDisplay": "~$21.5B",
+      "aumAsOf": "2026-03-31",
+      "aumBasis": "Firmwide AUM across private equity and private credit.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.charlesbank.com/faqs/"
+      },
+      "sectors": [
+        "Business services",
+        "Consumer & retail",
+        "Healthcare",
+        "Industrials",
+        "Technology"
+      ],
+      "description": "US middle-market investor with private-equity and private-credit strategies.",
+      "scopeNote": "Firmwide AUM includes credit assets.",
+      "coverageNote": "Official team biographies reviewed; these are publicly verified matches, not a guarantee of every employee’s education.",
+      "people": [
+        {
+          "id": "charlesbank--joshua-klevens",
+          "name": "Joshua Klevens",
+          "title": "Managing Director & Chief Operating Officer",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Portfolio operations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined the investment team in 2005 and became COO in 2022, overseeing finance, legal, human capital and technology. Previously worked at Bain Capital and McKinsey.",
+          "interests": [
+            "Youth advocacy",
+            "Boys & Girls Clubs of Boston"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.charlesbank.com/system/uploads/fae/image/asset/635/xs_Joshua_Klevens_-_New_CMS_v2.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.charlesbank.com/team/joshua-klevens/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.charlesbank.com/team/joshua-klevens/"
+            }
+          ],
+          "sectorDetail": [
+            "Firm operations"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Business services",
+        "Consumer",
+        "Healthcare",
+        "Industrials",
+        "Technology"
+      ]
+    },
+    {
+      "id": "thl",
+      "name": "THL Partners",
+      "website": "https://thl.com",
+      "headquarters": "Boston, Massachusetts",
+      "aumBillions": 21.483389334,
+      "aumDisplay": "$21.5B",
+      "aumAsOf": "FY2025; filing 2026-07-02",
+      "aumBasis": "Regulatory AUM of THL Managers VII, LLC (CRD 171042), an umbrella adviser including relying advisers, via FormDs. Not consolidated total lifetime capital managed or deployed.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://formds.com/investment-advisers/thl-managers-vii-llc?filing=2117406"
+      },
+      "sectors": [
+        "Financial services",
+        "Healthcare",
+        "Technology",
+        "Automation"
+      ],
+      "description": "Middle-market growth investor organized around specialized industry opportunities.",
+      "scopeNote": "Rank uses the named umbrella adviser’s regulatory AUM.",
+      "coverageNote": "All 175 biographies in the current public sitemap searched for Stanford, with matching degree biographies reviewed. Advisory role labeled explicitly.",
+      "people": [
+        {
+          "id": "thl--tyler-griffith",
+          "name": "Tyler Griffith",
+          "title": "Managing Director, Investor Relations",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 2010,
+          "sectors": [
+            "Investor relations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2010 and leads fundraising and investor outreach in Europe, Australia, the western US and other markets. Previously worked at GCA Savvian and Lehman Brothers.",
+          "interests": [
+            "Skiing",
+            "Mountaineering",
+            "Hiking"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://thl.com/wp-content/uploads/2022/11/230725_THL_Portraits_191_TylerGriffith_43748_v1x.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://thl.com/people/tyler-griffith/"
+          },
+          "linkedin": "https://www.linkedin.com/in/tyler-griffith-b4a98519",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://thl.com/people/tyler-griffith/"
+            },
+            {
+              "title": "Public LinkedIn education",
+              "url": "https://www.linkedin.com/in/tyler-griffith-b4a98519"
+            }
+          ],
+          "sectorDetail": [
+            "Fundraising",
+            "Investor relations"
+          ]
+        },
+        {
+          "id": "thl--seth-lawry",
+          "name": "Seth Lawry",
+          "title": "Advisory Partner",
+          "location": "Boston",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": 1992,
+          "sectors": [
+            "Business services",
+            "Investment advisory"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Advises THL’s investment team on current and prospective deals. Formerly served on business-services company boards including Agencyport, CompuCom, FIS and MoneyGram; prior experience includes Morgan Stanley and General Atlantic.",
+          "interests": [
+            "Nonprofit volunteering"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://thl.com/wp-content/uploads/2022/11/SLawry-copy.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://thl.com/people/seth-lawry/"
+          },
+          "linkedin": "https://www.linkedin.com/in/seth-lawry-1b5b0770",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://thl.com/people/seth-lawry/"
+            },
+            {
+              "title": "Public LinkedIn education",
+              "url": "https://www.linkedin.com/in/seth-lawry-1b5b0770"
+            }
+          ],
+          "relationshipNote": "Current advisory partner listed by the firm; not represented as an active full-time deal-team employee.",
+          "sectorDetail": [
+            "Business services",
+            "Investment advisory"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Financial & essential services",
+        "Healthcare",
+        "Technology",
+        "Automation"
+      ]
+    },
+    {
+      "id": "madison-dearborn",
+      "name": "Madison Dearborn Partners",
+      "website": "https://www.mdcp.com",
+      "headquarters": "Chicago, Illinois",
+      "aumBillions": 20.74048676,
+      "aumDisplay": "$20.7B",
+      "aumAsOf": "FY2025; filing 2026-03-31",
+      "aumBasis": "Regulatory AUM of Madison Dearborn Partners, LLC (CRD 157349), reported by FormDs from Form ADV Item 5.F; not cumulative capital raised.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/madison-dearborn-partners?filing=2049289"
+      },
+      "sectors": [
+        "Financial services",
+        "Healthcare",
+        "Technology"
+      ],
+      "description": "Chicago private-equity firm focused on financial services, healthcare, and technology and government businesses.",
+      "scopeNote": "Rank uses registered adviser regulatory AUM.",
+      "coverageNote": "Official team biographies reviewed; these are publicly verified matches, not a guarantee of every employee’s education.",
+      "people": [
+        {
+          "id": "madison-dearborn--brandon-levitan",
+          "name": "Brandon Levitan",
+          "title": "Managing Director & Co-Head of Technology & Government",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Government services"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Previously an MDP associate and Citi M&A analyst; co-founded airspace-monitoring business Walaris before returning. Board work includes AEVEX, Axonis, Revolutional, OMNI, T2S Solutions and Unison.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/387/Levitan-Brandon-220822-40990-fave-final-linkedin.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/brandon-levitan"
+          },
+          "linkedin": "https://www.linkedin.com/in/brandonlevitan",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/brandon-levitan"
+            }
+          ],
+          "sectorDetail": [
+            "Technology",
+            "Government services"
+          ]
+        },
+        {
+          "id": "madison-dearborn--elizabeth-q-betten",
+          "name": "Elizabeth Q. Betten",
+          "title": "Partner & Co-Head of Healthcare",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined in 2004 and returned after business school in 2008. Previously a J.P. Morgan healthcare banker; serves on healthcare company boards and the Stanley Manne Children’s Research Institute board.",
+          "interests": [
+            "Children’s research philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/168/mdp-headshot-mdp_12-5_0171.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/elizabeth-q-betten"
+          },
+          "linkedin": "https://www.linkedin.com/in/elizabeth-q-betten-94a43364",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/elizabeth-q-betten"
+            }
+          ],
+          "sectorDetail": [
+            "Healthcare"
+          ]
+        },
+        {
+          "id": "madison-dearborn--jason-shideler",
+          "name": "Jason Shideler",
+          "title": "Partner & Co-Head of Healthcare",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Joined MDP in 2006 and returned after business school in 2010. Serves on the boards of NextGen Healthcare and Performance Health; previous board roles include Alcami, Ikaria, Sage Products and Syntellis.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/185/Shideler-Jason-JAN_2024_Web.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/jason-shideler"
+          },
+          "linkedin": "https://www.linkedin.com/in/jason-shideler-a657173/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/jason-shideler"
+            }
+          ],
+          "sectorDetail": [
+            "Healthcare"
+          ]
+        },
+        {
+          "id": "madison-dearborn--tanner-scott",
+          "name": "Tanner Scott",
+          "title": "Managing Director",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Healthcare investor previously with RoundTable Healthcare Partners and Deutsche Bank. Involved in APM, with prior work on Solis Mammography, Alcami and Option Care Health.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/437/Scott-Tanner-220822-41491-fave-final-linkedin.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/tanner-scott"
+          },
+          "linkedin": "https://www.linkedin.com/in/tanner-scott-2a105446/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/tanner-scott"
+            }
+          ],
+          "sectorDetail": [
+            "Healthcare"
+          ]
+        },
+        {
+          "id": "madison-dearborn--timothy-p-sullivan",
+          "name": "Timothy P. Sullivan",
+          "title": "Vice Chairman",
+          "location": "Chicago",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "sectorNote": "Healthcare reflects the biography’s named portfolio board roles; current title is firmwide Vice Chairman.",
+          "background": "MDP co-founder with earlier First Chicago Venture Capital experience and US Navy service. His portfolio history focuses on healthcare; also serves on university, healthcare and education nonprofit boards.",
+          "interests": [
+            "Education philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.mdcp.com/system/uploads/fae/image/asset/180/Sullivan-Tim-JAN_2024_Web.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.mdcp.com/team/timothy-p-sullivan"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.mdcp.com/team/timothy-p-sullivan"
+            }
+          ],
+          "sectorDetail": [
+            "Healthcare",
+            "Private equity leadership"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Financial services",
+        "Healthcare",
+        "Technology & government"
+      ]
+    },
+    {
+      "id": "audax",
+      "name": "Audax Private Equity",
+      "website": "https://audaxprivateequity.com/",
+      "headquarters": "Boston, MA",
+      "aumBillions": 20.1,
+      "aumDisplay": "$20.1B",
+      "aumAsOf": "July 2026",
+      "aumBasis": "Firm-reported AUM of the private equity platform",
+      "aumSource": {
+        "title": "Audax — September 2026 GCG sale announcement, July 2026 AUM",
+        "url": "https://audaxprivateequity.com/news/audax-private-equity-enters-into-definitive-agreement-to-sell-gcg"
+      },
+      "sectors": [
+        "Business services",
+        "Financial services",
+        "Healthcare",
+        "Industrials",
+        "Technology"
+      ],
+      "description": "Buy-and-build investing through Flagship, Origins and Strategic Capital strategies.",
+      "scopeNote": "AUM covers Audax Private Equity, not the broader Audax Group credit platform. Flagship targets $200M–$1B enterprise values; Origins also invests below the upper middle market.",
+      "coverageNote": "All 174 biographies in the current public team directory reviewed. Two current GSB MBA alumni verified; other Stanford schools and undergraduate degrees excluded. The firm may employ people absent from its public directory.",
+      "teamSource": {
+        "title": "Audax Private Equity — team",
+        "url": "https://audaxprivateequity.com/team"
+      },
+      "people": [
+        {
+          "id": "audax--pamela-martin",
+          "name": "Pamela Martin",
+          "title": "Senior Managing Director",
+          "location": "Boston, MA",
+          "education": "Stanford GSB MBA; Dartmouth AB.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Business development",
+            "Portfolio operations"
+          ],
+          "background": "Joined in 2002 after strategy consulting at The Parthenon Group. Previously served on the investment team and now focuses on operations, business development and human capital management.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://bucket-production-9781.up.railway.app/audax-media-bucket/Martin_Pam_Formal.webp",
+          "photoSource": {
+            "title": "Pamela Martin — official photograph",
+            "url": "https://audaxprivateequity.com/team/pamela-martin"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Pamela Martin — official biography",
+              "url": "https://audaxprivateequity.com/team/pamela-martin"
+            }
+          ],
+          "sectorNote": "These are her stated functional responsibilities; an exclusive industry-sector mandate is not disclosed.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Business development",
+            "Human capital"
+          ]
+        },
+        {
+          "id": "audax--matthew-gosselin",
+          "name": "Matthew Gosselin",
+          "title": "Managing Director",
+          "location": "Boston, MA",
+          "education": "Stanford GSB MBA; Babson College BS.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Industrials",
+            "Energy & sustainability"
+          ],
+          "background": "Joined in 2014 after investing at Nautic Partners and working at N.M. Rothschild.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://bucket-production-9781.up.railway.app/audax-media-bucket/Gosselin_Matt_Business_Casual.webp",
+          "photoSource": {
+            "title": "Matthew Gosselin — official photograph",
+            "url": "https://audaxprivateequity.com/team/matthew-gosselin"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Matthew Gosselin — official biography",
+              "url": "https://audaxprivateequity.com/team/matthew-gosselin"
+            },
+            {
+              "title": "Audax — Total PowerGen Solutions investment",
+              "url": "https://audaxprivateequity.com/news/audax-private-equity-acquires-total-powergen-solutions"
+            },
+            {
+              "title": "Audax — team directory, location and Flagship team",
+              "url": "https://audaxprivateequity.com/team"
+            }
+          ],
+          "sectorNote": "Documented transaction exposure includes Total PowerGen Solutions; this is not an exclusive sector mandate.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Industrial services",
+            "Power generation"
+          ]
+        }
+      ],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Business services",
+        "Financial services",
+        "Healthcare",
+        "Industrial services",
+        "Software",
+        "Technology"
+      ]
+    },
+    {
+      "id": "harvest",
+      "name": "Harvest Partners",
+      "website": "https://harvestpartners.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 20,
+      "aumDisplay": "$20B+",
+      "aumAsOf": "March 31, 2026",
+      "aumBasis": "Firm-reported assets under management across strategies",
+      "aumSource": {
+        "title": "Harvest Partners — AUM disclosure",
+        "url": "https://harvestpartners.com/about/"
+      },
+      "sectors": [
+        "Business services",
+        "Industrials",
+        "Consumer & retail",
+        "Healthcare"
+      ],
+      "description": "Middle-market investor offering private equity, structured capital and credit strategies.",
+      "scopeNote": "Platform AUM includes private equity, structured capital and credit; it is not buyout-only AUM. Private equity targets $300M–$5B enterprise values.",
+      "coverageNote": "Current public roster, accessible senior biographies and indexed education references reviewed. No current GSB MBA affiliation verified. Former employee Bechir Pierre and undergraduate-only Stanford references excluded.",
+      "teamSource": {
+        "title": "Harvest Partners — team",
+        "url": "https://harvestpartners.com/people/"
+      },
+      "people": [],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Business services",
+        "Industrials",
+        "Commercial services",
+        "Consumer services",
+        "Healthcare services"
+      ]
+    },
+    {
+      "id": "kps",
+      "name": "KPS Capital Partners",
+      "website": "https://kpsfund.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 19.1,
+      "aumDisplay": "$19.1B",
+      "aumAsOf": "June 30, 2026",
+      "aumBasis": "Firm-reported assets under management",
+      "aumSource": {
+        "title": "KPS Capital Partners — AUM disclosure",
+        "url": "https://kpsfund.com/team/partners/michael-psaros/"
+      },
+      "sectors": [
+        "Industrials",
+        "Consumer & retail",
+        "Healthcare"
+      ],
+      "description": "Control investments in manufacturing and industrial businesses, with an emphasis on operational improvement.",
+      "scopeNote": "US-headquartered global manager; industrial investments span middle-market and larger transactions.",
+      "coverageNote": "Public team roster and accessible indexed biographies reviewed. No current GSB MBA affiliation independently verified; this does not establish that the firm has no GSB alumni.",
+      "teamSource": {
+        "title": "KPS Capital Partners — team",
+        "url": "https://kpsfund.com/team/"
+      },
+      "people": [],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Industrials",
+        "Manufacturing",
+        "Basic materials",
+        "Consumer products",
+        "Healthcare products"
+      ]
+    },
+    {
+      "id": "one-equity",
+      "name": "One Equity Partners",
+      "website": "https://www.oneequity.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 15.731527353,
+      "aumDisplay": "$15.7B",
+      "aumAsOf": "FY2025; Form ADV filed March 31, 2026",
+      "aumBasis": "Regulatory AUM of OEP Capital Advisors LP (CRD 173626), via FormDs SEC-filing mirror",
+      "aumSource": {
+        "title": "One Equity Partners — AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/oep-capital-advisors-l-p?filing=2082991&provider=3457346"
+      },
+      "sectors": [
+        "Industrials",
+        "Healthcare",
+        "Technology"
+      ],
+      "description": "Middle-market private equity focused on building companies through strategic combinations in North America and Europe.",
+      "scopeNote": "Adviser-level regulatory AUM, not the website’s cumulative capital-invested statistic. US-headquartered firm with international operations.",
+      "coverageNote": "Current biographies linked from the public sitemap reviewed. No current GSB MBA affiliation independently verified; Stanford undergraduate and non-GSB references excluded.",
+      "teamSource": {
+        "title": "One Equity Partners — team",
+        "url": "https://www.oneequity.com/team/"
+      },
+      "people": [],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Industrials",
+        "Healthcare",
+        "Technology"
+      ]
+    },
+    {
+      "id": "wcas",
+      "name": "Welsh, Carson, Anderson & Stowe",
+      "website": "https://www.wcas.com",
+      "headquarters": "New York, New York",
+      "aumBillions": 14.896139555,
+      "aumDisplay": "$14.9B",
+      "aumAsOf": "FY2025; filing 2026-05-26",
+      "aumBasis": "Regulatory AUM of WCAS Management Corporation (CRD 155695), reported by FormDs from Form ADV Item 5.F; not cumulative capital raised.",
+      "aumSource": {
+        "title": "AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/wcas-management-corporation?filing=2108226"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology"
+      ],
+      "description": "US middle-market buyout specialist focused on healthcare and technology.",
+      "scopeNote": "Rank uses the named registered adviser’s regulatory AUM.",
+      "coverageNote": "Current official team and biography data reviewed, including public website application data.",
+      "people": [
+        {
+          "id": "wcas--frances-higgins",
+          "name": "Frances Higgins",
+          "title": "General Partner & Co-Head of Fundraising and Investor Relations",
+          "location": "New York",
+          "education": "Stanford Graduate School of Business, MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Investor relations"
+          ],
+          "sectorNote": "Individual mandate or portfolio involvement stated in the linked biography.",
+          "background": "Leads institutional investor relationships, fundraising and limited-partner communications. Her prior experience includes JPMorgan Chase.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.wcas.com/team/frances-higgins.jpg",
+          "photoSource": {
+            "title": "Official biography portrait",
+            "url": "https://www.wcas.com/team/frances-higgins"
+          },
+          "linkedin": "https://www.linkedin.com/in/fran-higgins-85b5a1283/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.wcas.com/team/frances-higgins"
+            },
+            {
+              "title": "Official team directory",
+              "url": "https://www.wcas.com/team"
+            }
+          ],
+          "sectorDetail": [
+            "Fundraising",
+            "Investor relations"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Healthcare",
+        "Technology"
+      ]
+    },
+    {
+      "id": "tsg-consumer",
+      "name": "TSG Consumer Partners",
+      "website": "https://www.tsgconsumer.com/",
+      "headquarters": "San Francisco, CA",
+      "aumBillions": 14,
+      "aumDisplay": "$14B",
+      "aumAsOf": "Undated firm website, reviewed October 7, 2026",
+      "aumBasis": "Firm-reported assets under management.",
+      "aumSource": {
+        "title": "TSG Consumer — firm overview",
+        "url": "https://www.tsgconsumer.com/"
+      },
+      "sectors": [
+        "Consumer & retail",
+        "Healthcare",
+        "Industrials"
+      ],
+      "description": "Consumer-focused private equity investor partnering with brands and service businesses.",
+      "scopeNote": "Middle-market consumer specialist, included as an additional firm beyond the initial 25.",
+      "coverageNote": "Full public team biographies checked. Two firm leaders plus one separately identified TSG Vantage operating professional have verified GSB MBAs; the operating professional’s employee/contractor status is not publicly specified.",
+      "people": [
+        {
+          "id": "tsg-consumer--chuck-esserman",
+          "name": "Chuck Esserman",
+          "title": "CEO / Founder, Senior Managing Director",
+          "location": "Las Vegas, NV",
+          "education": "MBA, Stanford GSB (Arjay Miller Scholar); engineering degree, MIT",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "background": "Founded TSG in 1986 and chairs its Investment Committee. Previously at Bain & Company, he helped build one of the earliest private equity firms focused exclusively on consumer businesses.",
+          "interests": [
+            "Education philanthropy"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.tsgconsumer.com/wp-content/uploads/2025/07/cesserman-1024x717.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.tsgconsumer.com/team/chuck-esserman/"
+          },
+          "linkedin": "https://www.linkedin.com/in/chuck-esserman-28b633146/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.tsgconsumer.com/team/chuck-esserman/"
+            }
+          ],
+          "sectorDetail": [
+            "Consumer"
+          ]
+        },
+        {
+          "id": "tsg-consumer--hadley-mullin",
+          "name": "Hadley Mullin",
+          "title": "Senior Managing Director",
+          "location": "San Francisco, CA",
+          "education": "MBA, Stanford GSB (Arjay Miller Scholar); undergraduate degree, Dartmouth",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "background": "Joined in 2004 after Bain. Leads origination and investment work, serves on the Investment Committee and helped build TSG’s operations group. Serves on education-related boards at Stanford and Dartmouth.",
+          "interests": [
+            "Education and university governance"
+          ],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.tsgconsumer.com/wp-content/uploads/2026/08/hadley-mullin-1024x682.jpeg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.tsgconsumer.com/team/hadley-mullin/"
+          },
+          "linkedin": "https://www.linkedin.com/in/hadley-mullin-620710/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.tsgconsumer.com/team/hadley-mullin/"
+            }
+          ],
+          "sectorDetail": [
+            "Consumer"
+          ]
+        },
+        {
+          "id": "tsg-consumer--kevin-adams",
+          "name": "Kevin Adams",
+          "title": "Managing Director, Head of Operations (TSG Vantage)",
+          "location": null,
+          "education": "MBA, Stanford GSB; engineering degree, Rensselaer Polytechnic Institute",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail",
+            "Portfolio operations"
+          ],
+          "background": "Joined in 2025 to lead operations in TSG Vantage, supporting efficiency, scale and cost improvement. Previously an Operating Partner at Gemspring and Platinum Equity, a BCG Partner and an AlixPartners Director.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.tsgconsumer.com/wp-content/uploads/2025/07/kadams-1024x717.jpg",
+          "photoSource": {
+            "title": "Official portrait",
+            "url": "https://www.tsgconsumer.com/team/kevin-adams/"
+          },
+          "linkedin": "https://www.linkedin.com/in/kevinadams5/",
+          "sources": [
+            {
+              "title": "Official biography",
+              "url": "https://www.tsgconsumer.com/team/kevin-adams/"
+            }
+          ],
+          "relationshipNote": "TSG states that its Vantage operating professionals may be independent contractors or employees of TSG or affiliates; Kevin’s specific employment relationship is not disclosed.",
+          "sectorDetail": [
+            "Consumer",
+            "Portfolio operations"
+          ]
+        }
+      ],
+      "sectorDetail": [
+        "Consumer",
+        "Beauty and personal care",
+        "Food and beverage",
+        "Health and wellness",
+        "Restaurants",
+        "Home and automotive"
+      ]
+    },
+    {
+      "id": "midocean",
+      "name": "MidOcean Partners",
+      "website": "https://www.midoceanpartners.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 12,
+      "aumDisplay": "$12B+",
+      "aumAsOf": "Website accessed October 7, 2026; figure has no stated as-of date",
+      "aumBasis": "Firm-reported assets under management across private equity and credit",
+      "aumSource": {
+        "title": "MidOcean Partners — AUM disclosure",
+        "url": "https://www.midoceanpartners.com/"
+      },
+      "sectors": [
+        "Consumer & retail",
+        "Business services"
+      ],
+      "description": "Middle-market private equity and alternative credit manager; its private equity practice concentrates on consumer and business services.",
+      "scopeNote": "Platform AUM includes credit. The private equity strategy spans the middle market.",
+      "coverageNote": "All 88 biographies linked from the current public people index reviewed. No current GSB MBA affiliation independently verified; public listings may omit employees.",
+      "teamSource": {
+        "title": "MidOcean Partners — team",
+        "url": "https://www.midoceanpartners.com/people/index"
+      },
+      "people": [],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Consumer",
+        "Business services"
+      ]
+    },
+    {
+      "id": "lindsay-goldberg",
+      "name": "Lindsay Goldberg",
+      "website": "https://www.lindsaygoldbergllc.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 11.909436598,
+      "aumDisplay": "$11.9B",
+      "aumAsOf": "Adviser profile as of August 5, 2026",
+      "aumBasis": "Regulatory AUM of Goldberg Lindsay & Co. LLC (CRD 141029), via 9AT SEC-filing mirror",
+      "aumSource": {
+        "title": "Lindsay Goldberg — AUM disclosure",
+        "url": "https://www.9at.com/Adviser/801-67008"
+      },
+      "sectors": [
+        "Industrials",
+        "Business services",
+        "Healthcare"
+      ],
+      "description": "Partners with families, founders and management teams to build businesses in established industries.",
+      "scopeNote": "Adviser-level regulatory AUM, not cumulative fundraising. The official $24B committed-capital statistic is a different metric.",
+      "coverageNote": "All 51 biographies embedded in the current official team directory reviewed; seven explicitly identify a Stanford GSB MBA. Public-directory coverage may omit other employees.",
+      "teamSource": {
+        "title": "Lindsay Goldberg — team",
+        "url": "https://www.lindsaygoldbergllc.com/team"
+      },
+      "people": [
+        {
+          "id": "lindsay-goldberg--krishna-agrawal",
+          "name": "Krishna Agrawal",
+          "title": "Partner",
+          "location": null,
+          "education": "New York University – BS, Finance and Information Systems Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Real assets",
+            "Industrials"
+          ],
+          "background": "Joined in 2006; previously a Morgan Stanley investment banker. Serves on Kleinfelder’s board and has infrastructure and industrial-services investment experience.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2026/09/NLP_4535_KrishnaAgrawal_FINAL-768x960.jpg",
+          "photoSource": {
+            "title": "Krishna Agrawal — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Krishna Agrawal — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            },
+            {
+              "title": "Kleinfelder — acquisition by Lindsay Goldberg",
+              "url": "https://www.kleinfelder.com/news/press-releases/the-kleinfelder-group-acquired-by-lindsay-goldberg/"
+            }
+          ],
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Infrastructure",
+            "Industrial services"
+          ]
+        },
+        {
+          "id": "lindsay-goldberg--steven-cymerman",
+          "name": "Steven Cymerman",
+          "title": "Principal",
+          "location": null,
+          "education": "University of Pennsylvania – BS, Economics Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [],
+          "background": "Joined in 2018 after Madison Dearborn and Moelis. Serves on the board of Dash Car Wash.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2026/09/NLP_1173_SteveCymermanFINAL-768x960.jpg",
+          "photoSource": {
+            "title": "Steven Cymerman — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Steven Cymerman — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            }
+          ],
+          "sectorNote": "The official biography lists portfolio experience but does not state a personal sector mandate.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": []
+        },
+        {
+          "id": "lindsay-goldberg--john-holland",
+          "name": "John Holland",
+          "title": "Partner",
+          "location": null,
+          "education": "University of Chicago – AB, Economics Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Business services"
+          ],
+          "background": "Joined in 2021 after Warburg Pincus, GTCR and UBS. Focuses on business services and serves on Dash Car Wash and EMCO boards.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2026/09/NLP_4621_JohnHolland_Final-768x960.jpg",
+          "photoSource": {
+            "title": "John Holland — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "John Holland — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            },
+            {
+              "title": "Lindsay Goldberg — investment-team sector responsibilities",
+              "url": "https://www.lindsaygoldbergllc.com/news/cathleen-ellsworth-joins-lindsay-goldberg-as-partner"
+            }
+          ],
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Business services"
+          ]
+        },
+        {
+          "id": "lindsay-goldberg--bryan-kozin",
+          "name": "Bryan Kozin",
+          "title": "Vice President",
+          "location": null,
+          "education": "Elon University – BS, Business Administration in Finance Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [],
+          "background": "Returned after his MBA; previously at CI Capital and Bank of America Merrill Lynch. Serves on Sero Mental Health’s board.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2026/09/NLP_1144_BryanKozinFINAL-768x960.jpg",
+          "photoSource": {
+            "title": "Bryan Kozin — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Bryan Kozin — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            }
+          ],
+          "sectorNote": "The official biography lists portfolio experience but does not state a personal sector mandate.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": []
+        },
+        {
+          "id": "lindsay-goldberg--vincent-ley",
+          "name": "Vincent Ley",
+          "title": "Partner",
+          "location": null,
+          "education": "Princeton University – BA, History Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Industrials",
+            "Business services"
+          ],
+          "background": "Joined in 2010; previously in Morgan Stanley real estate investing and banking. Focuses on industrials and services.",
+          "interests": [],
+          "email": "ley@lindsaygoldbergllc.com",
+          "emailSource": {
+            "title": "SEC — Amentum Stockholders Agreement, September 27, 2024",
+            "url": "https://www.sec.gov/Archives/edgar/data/2011286/000095015724001361/ex10-6.htm"
+          },
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2019/04/Vince-Ley.jpg",
+          "photoSource": {
+            "title": "Vincent Ley — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Vincent Ley — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            },
+            {
+              "title": "Lindsay Goldberg — partner promotion and sector focus",
+              "url": "https://www.lindsaygoldbergllc.com/news/lindsay-goldberg-announces-partner-promotions"
+            }
+          ],
+          "emailNote": "Published in a 2024 SEC stockholders agreement for business notices; current deliverability has not been verified.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Industrials",
+            "Services"
+          ]
+        },
+        {
+          "id": "lindsay-goldberg--robert-lindsay",
+          "name": "Robert Lindsay",
+          "title": "Chairman & Co-Founder",
+          "location": null,
+          "education": "Harvard University – BA, English and American Literature and Language Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [],
+          "background": "Co-founded the firm after leading Bessemer’s private equity business and working at Morgan Stanley. A Cold Spring Harbor Laboratory trustee.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2019/04/Bob-Lindsay.jpg",
+          "photoSource": {
+            "title": "Robert Lindsay — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Robert Lindsay — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            }
+          ],
+          "sectorNote": "The official biography lists portfolio experience but does not state a personal sector mandate.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": []
+        },
+        {
+          "id": "lindsay-goldberg--peter-nurnberg",
+          "name": "Peter Nurnberg",
+          "title": "Partner",
+          "location": null,
+          "education": "Williams College – BA, Economics and Mathematics Stanford Graduate School of Business – MBA",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail",
+            "Healthcare"
+          ],
+          "background": "Joined in 2018 after TPG and Goldman Sachs. Serves on the boards of Aspire Bakeries, Golden State Foods and MMS Holdings.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://www.lindsaygoldbergllc.com/wp-content/uploads/2026/09/NLP_5170_PeterNurnberg_FINAL-768x960.jpg",
+          "photoSource": {
+            "title": "Peter Nurnberg — official photograph",
+            "url": "https://www.lindsaygoldbergllc.com/team"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Peter Nurnberg — official biography",
+              "url": "https://www.lindsaygoldbergllc.com/team"
+            },
+            {
+              "title": "Lindsay Goldberg — Golden State Foods investment",
+              "url": "https://www.lindsaygoldbergllc.com/news/lindsay-goldberg-to-acquire-a-controlling-interest-in-golden-state-foods"
+            },
+            {
+              "title": "Lindsay Goldberg — MMS Holdings investment",
+              "url": "https://www.lindsaygoldbergllc.com/news/mms-holdings-partners-with-lindsay-goldberg-for-its-next-stage-of-growth"
+            }
+          ],
+          "sectorNote": "Documented portfolio exposure through Golden State Foods and MMS Holdings; no exclusive sector mandate is stated.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Food and beverage",
+            "Healthcare services"
+          ]
+        }
+      ],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Industrials",
+        "Services",
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "golden-gate",
+      "name": "Golden Gate Capital",
+      "website": "https://goldengatecap.com/",
+      "headquarters": "San Francisco, CA",
+      "aumBillions": 11.164012486,
+      "aumDisplay": "$11.2B",
+      "aumAsOf": "FY2025; Form ADV filed April 28, 2026",
+      "aumBasis": "Regulatory AUM of Golden Gate Private Equity Inc. (CRD 157379), via FormDs SEC-filing mirror",
+      "aumSource": {
+        "title": "Golden Gate Capital — AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/golden-gate-capital"
+      },
+      "sectors": [
+        "Consumer & retail",
+        "Industrials",
+        "Technology",
+        "Financial services"
+      ],
+      "description": "Middle-market buyouts and growth investments across consumer, industrials, technology and financial services.",
+      "scopeNote": "The AUM figure is adviser-level regulatory AUM, not a consolidated platform total. The firm’s $20B+ cumulative committed-capital statistic is a different metric.",
+      "coverageNote": "Six GSB MBA alumni verified on current official biographies. Public roster and indexed bios searched; completeness is not guaranteed.",
+      "teamSource": {
+        "title": "Golden Gate Capital — team",
+        "url": "https://goldengatecap.com/team/"
+      },
+      "people": [
+        {
+          "id": "golden-gate--mike-montgomery",
+          "name": "Mike Montgomery",
+          "title": "Managing Director",
+          "location": null,
+          "education": "Stanford GSB MBA; Stanford MA, Education; UCLA BA, Business Economics.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "background": "Joined in 2006 and leads the Consumer practice. Previously a consultant at Bain & Company in Los Angeles.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://goldengatecap.com/wp-content/uploads/2023/09/montgomery_mike-removebg-preview.png",
+          "photoSource": {
+            "title": "Mike Montgomery — official photograph",
+            "url": "https://goldengatecap.com/member/mike-montgomery/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Mike Montgomery — official biography",
+              "url": "https://goldengatecap.com/member/mike-montgomery/"
+            }
+          ],
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Consumer"
+          ]
+        },
+        {
+          "id": "golden-gate--matt-crump",
+          "name": "Matt Crump",
+          "title": "Managing Director",
+          "location": null,
+          "education": "Stanford GSB MBA; University of Pennsylvania BA, Biology.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Financial services",
+            "Business services"
+          ],
+          "background": "Joined in 2011 and helps lead Technology and Financial Services, including software and technology-driven professional services. Previously an analyst at Audax.",
+          "interests": [],
+          "email": "mcrump@goldengatecap.com",
+          "emailSource": {
+            "title": "SEC — Support Agreement, October 3, 2023",
+            "url": "https://www.sec.gov/Archives/edgar/data/1723648/000110465923106641/tm2327430d1_ex99-2.htm"
+          },
+          "photoUrl": "https://goldengatecap.com/wp-content/uploads/2025/09/crump_matt_ggc.png",
+          "photoSource": {
+            "title": "Matt Crump — official photograph",
+            "url": "https://goldengatecap.com/member/matt-crump/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Matt Crump — official biography",
+              "url": "https://goldengatecap.com/member/matt-crump/"
+            }
+          ],
+          "emailNote": "Published in a 2023 SEC transaction agreement for business notices; current deliverability has not been verified.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Technology",
+            "Software",
+            "Financial services",
+            "Professional services"
+          ]
+        },
+        {
+          "id": "golden-gate--javier-puig",
+          "name": "Javier Puig",
+          "title": "Managing Director",
+          "location": null,
+          "education": "Stanford GSB MBA; Yale BA, Ethics, Politics and Economics.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Industrials"
+          ],
+          "background": "Joined in 2009 and leads the Industrials practice. Previously a consultant at Boston Consulting Group in San Francisco.",
+          "interests": [],
+          "email": "jpuig@goldengatecap.com",
+          "emailSource": {
+            "title": "SEC — transaction agreement, 2019",
+            "url": "https://www.sec.gov/Archives/edgar/data/1504461/000110465919059047/tm1921654d1_ex2-1.htm"
+          },
+          "photoUrl": "https://goldengatecap.com/wp-content/uploads/2026/08/WEB-JavierPuig2026-removebg-preview.png",
+          "photoSource": {
+            "title": "Javier Puig — official photograph",
+            "url": "https://goldengatecap.com/member/javier-puig/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Javier Puig — official biography",
+              "url": "https://goldengatecap.com/member/javier-puig/"
+            }
+          ],
+          "emailNote": "Published in a 2019 SEC transaction agreement for business notices; current deliverability has not been verified.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Industrials"
+          ]
+        },
+        {
+          "id": "golden-gate--dionicio-herrera",
+          "name": "Dionicio Herrera",
+          "title": "Principal",
+          "location": null,
+          "education": "Stanford GSB MBA; University of Pennsylvania BS, Economics.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Technology",
+            "Financial services"
+          ],
+          "background": "Joined in 2023 and focuses on Technology and Financial Services. Previously held investing roles at Berkshire Partners and Siris Capital, following investment banking at Barclays.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://goldengatecap.com/wp-content/uploads/2023/09/Dio_Herrera_Dionicio_print.png",
+          "photoSource": {
+            "title": "Dionicio Herrera — official photograph",
+            "url": "https://goldengatecap.com/member/dionicio-herrara/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Dionicio Herrera — official biography",
+              "url": "https://goldengatecap.com/member/dionicio-herrara/"
+            }
+          ],
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Technology",
+            "Financial services"
+          ]
+        },
+        {
+          "id": "golden-gate--mike-schwartzman",
+          "name": "Mike Schwartzman",
+          "title": "Principal",
+          "location": null,
+          "education": "Stanford GSB MBA; Yale BS, Mechanical Engineering and Economics.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Consumer & retail"
+          ],
+          "background": "Joined in 2022 and focuses on Consumer investments. Previously a principal at Wellspring Capital, a vice president at Elysium Management and a UBS investment banking analyst.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://goldengatecap.com/wp-content/uploads/2025/09/schwartzman_mike_ggc.png",
+          "photoSource": {
+            "title": "Mike Schwartzman — official photograph",
+            "url": "https://goldengatecap.com/member/mike-schwartzman/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Mike Schwartzman — official biography",
+              "url": "https://goldengatecap.com/member/mike-schwartzman/"
+            }
+          ],
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Consumer"
+          ]
+        },
+        {
+          "id": "golden-gate--diego-rivera",
+          "name": "Diego Rivera",
+          "title": "Vice President",
+          "location": null,
+          "education": "Stanford GSB MBA; Washington University in St. Louis BSBA, Finance and Economics.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Industrials"
+          ],
+          "background": "Joined in 2020 and focuses on Industrials. Previously a Bain & Company consultant in Chicago and Madrid.",
+          "interests": [],
+          "email": null,
+          "emailSource": null,
+          "photoUrl": "https://goldengatecap.com/wp-content/uploads/2025/09/rivera_diego_ggc.png",
+          "photoSource": {
+            "title": "Diego Rivera — official photograph",
+            "url": "https://goldengatecap.com/member/diego-rivera/"
+          },
+          "linkedin": null,
+          "sources": [
+            {
+              "title": "Diego Rivera — official biography",
+              "url": "https://goldengatecap.com/member/diego-rivera/"
+            }
+          ],
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Industrials"
+          ]
+        }
+      ],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Consumer",
+        "Industrials",
+        "Technology",
+        "Financial services"
+      ]
+    },
+    {
+      "id": "court-square",
+      "name": "Court Square Capital Partners",
+      "website": "https://www.courtsquare.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 10.1,
+      "aumDisplay": "$10.1B",
+      "aumAsOf": "December 31, 2025",
+      "aumBasis": "Firm-reported assets under management",
+      "aumSource": {
+        "title": "Court Square Capital Partners — AUM disclosure",
+        "url": "https://www.courtsquare.com/media/court-square-capital-partners-closes-fifth-flagship-fund-at-38-billion/"
+      },
+      "sectors": [
+        "Industrials",
+        "Business services",
+        "Healthcare",
+        "Technology",
+        "Media & communications"
+      ],
+      "description": "US middle-market private equity with dedicated industry teams and an operational value-creation approach.",
+      "scopeNote": "Broad middle-market buyout manager; April 2026 fundraising release reports the AUM figure as of December 31, 2025.",
+      "coverageNote": "Current public team biographies reviewed. One GSB MBA alumna verified; Stanford undergraduate-only references excluded.",
+      "teamSource": {
+        "title": "Court Square Capital Partners — team",
+        "url": "https://www.courtsquare.com/team/"
+      },
+      "people": [
+        {
+          "id": "court-square--sarah-donaldson",
+          "name": "Sarah Donaldson",
+          "title": "Vice President",
+          "location": null,
+          "education": "Stanford GSB MBA; University of Southern California BS, Business Administration.",
+          "degree": "MBA",
+          "gradYear": null,
+          "sectors": [
+            "Healthcare"
+          ],
+          "background": "Joined in 2022 after Atlantic Street Capital and TIAA’s Private Equity and Junior Capital team. Began her career at Morgan Stanley. Her official biography lists Knipper Health among notable exits.",
+          "interests": [],
+          "email": "sdonaldson@courtsquare.com",
+          "emailSource": {
+            "title": "Sarah Donaldson — official contact link",
+            "url": "https://www.courtsquare.com/team/sarah-donaldson/"
+          },
+          "photoUrl": "https://cms.courtsquare.com/system/uploads/fae/image/asset/171/sm_CourtSquare_SarahDonaldson.jpg",
+          "photoSource": {
+            "title": "Sarah Donaldson — official photograph",
+            "url": "https://www.courtsquare.com/team/sarah-donaldson/"
+          },
+          "linkedin": "https://www.linkedin.com/in/sarahdonaldson1/",
+          "sources": [
+            {
+              "title": "Sarah Donaldson — official biography",
+              "url": "https://www.courtsquare.com/team/sarah-donaldson/"
+            }
+          ],
+          "sectorNote": "Healthcare exposure is documented through Knipper Health; her biography does not state an exclusive sector mandate.",
+          "emailNote": "Published on her current official biography; deliverability not tested.",
+          "researchedAt": "2026-10-07",
+          "sectorDetail": [
+            "Healthcare"
+          ]
+        }
+      ],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Industrials",
+        "Business services",
+        "Healthcare",
+        "Technology",
+        "Telecommunications"
+      ]
+    },
+    {
+      "id": "odyssey",
+      "name": "Odyssey Investment Partners",
+      "website": "https://www.odysseyinvestment.com/",
+      "headquarters": "New York, NY",
+      "aumBillions": 7.854936659,
+      "aumDisplay": "$7.85B",
+      "aumAsOf": "FY2025; Form ADV filed May 12, 2026",
+      "aumBasis": "Regulatory AUM of Odyssey Investment Partners LLC (CRD 160990), via FormDs SEC-filing mirror",
+      "aumSource": {
+        "title": "Odyssey Investment Partners — AUM disclosure",
+        "url": "https://www.formds.com/investment-advisers/odyssey-investment-partners-llc?filing=2105067"
+      },
+      "sectors": [
+        "Industrials",
+        "Business services"
+      ],
+      "description": "Control investments in North American middle-market businesses, targeting $100M–$1B enterprise values.",
+      "scopeNote": "Adviser-level regulatory AUM. Strategy includes the broader middle market, not exclusively upper-middle-market transactions.",
+      "coverageNote": "Current biographies linked from the public sitemap reviewed. No current GSB MBA affiliation independently verified; an empty result does not mean no alumni work there.",
+      "teamSource": {
+        "title": "Odyssey Investment Partners — team",
+        "url": "https://www.odysseyinvestment.com/sitemap/"
+      },
+      "people": [],
+      "researchedAt": "2026-10-07",
+      "sectorDetail": [
+        "Industrial manufacturing",
+        "Industrial services",
+        "Business services"
+      ]
+    }
+  ]
+}

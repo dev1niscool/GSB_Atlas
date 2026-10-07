@@ -4,6 +4,8 @@ A liquid glass research directory of Stanford Graduate School of Business MBA al
 
 **Website:** https://dev1niscool.github.io/GSB_Atlas/
 
+Initial edition: **28 firms, 80 verified Stanford GSB MBA profiles, 80 attributed portraits, and 22 sourced professional emails.**
+
 ## Use locally
 
 This is a dependency-free static site. Serve the repository root, for example:
@@ -40,4 +42,4 @@ GitHub Pages serves `main` from the repository root; `.nojekyll` disables Jekyll
 
 ## Attribution
 
-Independent research, not affiliated with Stanford University or any firm listed. Portraits and source materials remain the property of their respective owners. Images are linked from public professional sources; missing or failed portraits display a labeled initials fallback. Third-party fonts load from Google Fonts. Bookmarks stay in the visitor's browser.
+Independent research, not affiliated with Stanford University or any firm listed. Portraits and source materials remain the property of their respective owners. Images are linked from public professional sources; two Clearlake portraits are extracted from the firm’s publicly hosted December 2023 SERS presentation (page 13); missing or failed portraits display a labeled initials fallback. Third-party fonts load from Google Fonts. Bookmarks stay in the visitor's browser.
